@@ -180,6 +180,7 @@ Qt 编写的中国象棋在线对战。
 实现一个 FUSE 文件系统，背后采用 KV 来存储数据。
 
 * 合作同学：csq gj lxy
+* [GitHub](https://github.com/Harry-Chen/HERMES)
 * 相关技术：C++，FUSE
 * 投入时间：不多
 * 喜爱：5
