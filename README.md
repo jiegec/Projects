@@ -20,7 +20,7 @@
 | 2018.11 | 软件工程             | [Info9](#Info9)                                              |
 | 2019.2  | 操作系统             | [rCore](#rCore)                                              |
 | 2019.4  | 人工智能导论         | [Pinyin](#Pinyin)，[FourChess](#FourChess)，[EmotionClassifier](#EmotionClassifier) |
-| 2019.5  | 多媒体技术基础       | [RBSplit](#RBSplit)，[MultimediaCompression](#MultimediaCompression)，[MultimediaSound](#MultimediaSounr)，[MultimediaAnalysis](#MultimediaAnalysis) |
+| 2019.5  | 多媒体技术基础       | [RBSplit](#RBSplit)，[MultimediaCompression](#MultimediaCompression)，[MultimediaSound](#MultimediaSound)，[MultimediaAnalysis](#MultimediaAnalysis) |
 
 ### 个人项目
 
