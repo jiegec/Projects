@@ -93,7 +93,7 @@ DMCD 是 Digital Microfluidic Chip Designer 的缩写。同样实现一个算法
 * 喜爱：0
 * 收获：0
 
-###ChineseChess
+### ChineseChess
 
 Qt 编写的中国象棋在线对战。
 
@@ -103,7 +103,7 @@ Qt 编写的中国象棋在线对战。
 * 喜爱：2
 * 收获：2
 
-###SearchEngine
+### SearchEngine
 
 用 Python 编写爬虫，并实现简单的搜索引擎。
 
@@ -205,8 +205,6 @@ Qt 编写的中国象棋在线对战。
 * 喜爱：4
 * 收获：4
 
-## 
-
 ## 个人项目
 
 ### MacGesture
@@ -222,4 +220,3 @@ Qt 编写的中国象棋在线对战。
 
 
 ## 未完待续
-
