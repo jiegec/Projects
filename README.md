@@ -20,15 +20,15 @@
 | 2018.11 | 软件工程             | [Info9](#Info9)                                              |
 | 2019.2  | 操作系统             | [rCore](#rCore)                                              |
 | 2019.4  | 人工智能导论         | [Pinyin](#Pinyin)，[FourChess](#FourChess)，[EmotionClassifier](#EmotionClassifier) |
+| 2019.4  | 存储技术基础         | [KVEngine](#KVEngine)，[HERMES](#HERMES)                     |
 | 2019.5  | 多媒体技术基础       | [RBSplit](#RBSplit)，[MultimediaCompression](#MultimediaCompression)，[MultimediaSound](#MultimediaSound)，[MultimediaAnalysis](#MultimediaAnalysis) |
 
 ### 个人项目
 
-| 时间   | 内容               | 项目                      |
-| ------ | ------------------ | ------------------------- |
-| 2016.3 | macOS 上的手势软件 | [MacGesture](#MacGesture) |
-|        |                    |                           |
-|        |                    |                           |
+| 时间   | 内容                     | 项目                      |
+| ------ | ------------------------ | ------------------------- |
+| 2016.3 | macOS 上的手势软件       | [MacGesture](#MacGesture) |
+| 2018.2 | Stanford CS140e 实验课程 | [CS140e](#CS140e)         |
 
 ## 计算机系课程作业
 
@@ -165,6 +165,26 @@ Qt 编写的中国象棋在线对战。
 * 喜爱：0
 * 收获：0
 
+### KVEngine
+
+实现一个简单的 KV 引擎，保证 Write Consistency 和 Crash Consistency。
+
+* [GitHub](https://github.com/jiegec/kv-engine)
+* 相关技术：C++，WAL
+* 投入时间：不多
+* 喜爱：3
+* 收获：4
+
+### HERMES
+
+实现一个 FUSE 文件系统，背后采用 KV 来存储数据。
+
+* 合作同学：csq gj lxy
+* 相关技术：C++，FUSE
+* 投入时间：不多
+* 喜爱：5
+* 收获：5
+
 ### RbSplit
 
 把图片的颜色拆开，然后错位后再拼在一起，变成一个新的图。
@@ -217,6 +237,14 @@ Qt 编写的中国象棋在线对战。
 * 喜爱：3
 * 收获：2
 
+### CS140e
 
+大一寒假的时候，Stanford CS140e 首次做出了用 Rust 写操作系统作为实验课程的尝试，我也跟着做了。
+
+* [GitHub](https://github.com/jiegec/cs140e)
+* 相关技术：Rust，操作系统
+* 投入时间：较多
+* 喜爱：10
+* 收获：10
 
 ## 未完待续
