@@ -22,6 +22,7 @@
 | 2019.4  | 人工智能导论         | [Pinyin](#Pinyin)，[FourChess](#FourChess)，[EmotionClassifier](#EmotionClassifier) |
 | 2019.4  | 存储技术基础         | [KVEngine](#KVEngine)，[HERMES](#HERMES)                     |
 | 2019.5  | 多媒体技术基础       | [RBSplit](#RBSplit)，[MultimediaCompression](#MultimediaCompression)，[MultimediaSound](#MultimediaSound)，[MultimediaAnalysis](#MultimediaAnalysis) |
+| 2019.8  | Java程序设计与训练   | [JabaHomework](#JabaHomework)                                |
 
 ### 个人项目
 
@@ -225,6 +226,16 @@ Qt 编写的中国象棋在线对战。
 * 投入时间：很少
 * 喜爱：4
 * 收获：4
+
+### JabaHomework
+
+Java OJ 上的作业外加考试。
+
+- [GitHub](https://github.com/jiegec/jaba-homework)
+- 相关技术：Java
+- 投入时间：很少
+- 喜爱：1
+- 收获：1
 
 ## 个人项目
 
