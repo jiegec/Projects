@@ -22,6 +22,7 @@
 | 2019.4  | 人工智能导论         | [Pinyin](#Pinyin)，[FourChess](#FourChess)，[EmotionClassifier](#EmotionClassifier) |
 | 2019.4  | 存储技术基础         | [KVEngine](#KVEngine)，[HERMES](#HERMES)                     |
 | 2019.5  | 多媒体技术基础       | [RBSplit](#RBSplit)，[MultimediaCompression](#MultimediaCompression)，[MultimediaSound](#MultimediaSound)，[MultimediaAnalysis](#MultimediaAnalysis) |
+| 2019.7  | 专业实践             | [GuGuMIPS](#GuGuMIPS)，[GuGuMIPSSoC](#GuGuMIPSSoC)，[linux-gugumips](#linux-gugumips)，[u-boot-gugumips](#u-boot-gugumips)，[ucore-gugumips](#ucore-gugumips)，[usbh](#usbh) |
 | 2019.8  | Java程序设计与训练   | [JabaHomework](#JabaHomework)                                |
 
 ### 个人项目
@@ -226,6 +227,66 @@ Qt 编写的中国象棋在线对战。
 * 投入时间：很少
 * 喜爱：4
 * 收获：4
+
+### GuGuMIPS
+
+自己编写的小端 MIPS32 实现，能够启动 Linux ，自己编写的 Cache 处于未完成状态。
+
+- [GitHub](https://github.com/jiegec/GuGuMIPS)
+- 相关技术：SystemVerilog
+- 投入时间：很多
+- 喜爱：10
+- 收获：10
+
+### GuGuMIPSSoC
+
+以 GuGuMIPS 为 CPU ，在龙芯实验箱上运行的一个 SoC ，支持网络，USB，LCD等外设
+
+- [GitHub](https://github.com/jiegec/GuGuMIPSSoC)
+- 相关技术：Vivado
+- 投入时间：很多
+- 喜爱：10
+- 收获：10
+
+### linux-gugumips
+
+为 GuGuMIPS 适配的 Linux 代码，从主线内核上直接 patch ，可以随时更新到最新内核。大部分代码参考了 [z4yx/linux-kernel](https://github.com/z4yx/linux-kernel)
+
+- [GitHub](https://github.com/jiegec/linux-gugumips)
+- 相关技术：Linux Kernel
+- 投入时间：不多
+- 喜爱：5
+- 收获：3
+
+### u-boot-gugumips
+
+为 GuGuMIPS 适配的 U-Boot 代码，从 U-Boot 主线上 fork 而来。大部分代码参考了 [z4yx/u-boot-naivemips](https://github.com/z4yx/u-boot-naivemips)
+
+- [GitHub](https://github.com/jiegec/u-boot-gugumips)
+- 相关技术：U-Boot
+- 投入时间：不多
+- 喜爱：5
+- 收获：3
+
+### ucore-gugumips
+
+为 GuGuMIPS 适配的 uCore 代码，只在外设方面做了微小的改动。
+
+- [GitHub](https://github.com/jiegec/ucore-gugumips)
+- 相关技术：Kernel
+- 投入时间：很少
+- 喜爱：3
+- 收获：1
+
+### usbh
+
+USB 2.0 FS 控制器，从 UltraEmbedded USB Host Controller 修改而来，并且打包为了 Vivado IP。对应的驱动在上面的 Linux 和 U-Boot 仓库中。
+
+- [GitHub](https://github.com/jiegec/usbh)
+- 相关技术：Hardware
+- 投入时间：很多
+- 喜爱：10
+- 收获：10
 
 ### JabaHomework
 
