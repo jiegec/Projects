@@ -25,6 +25,7 @@
 | 2019.6  | 数字逻辑设计         | [NaiveRouter](#NaiveRouter)，[router](#router)，[router_mb](#router_mb)，[router_ksz8795](#router_ksz8795) |
 | 2019.7  | 专业实践             | [GuGuMIPS](#GuGuMIPS)，[GuGuMIPSSoC](#GuGuMIPSSoC)，[linux-gugumips](#linux-gugumips)，[u-boot-gugumips](#u-boot-gugumips)，[ucore-gugumips](#ucore-gugumips)，[usbh](#usbh) |
 | 2019.8  | Java程序设计与训练   | [JabaHomework](#JabaHomework)，[NewsApp](#NewsApp)           |
+| 2019.8  | 汇编语言程序设计     | [asm-homework](#asm-homework)                                |
 
 ### 个人项目
 
@@ -348,6 +349,16 @@ Java 大作业，一个简单的新闻 App 。
 - 投入时间：不多
 - 喜爱：8
 - 收获：5
+
+### asm-homework
+
+汇编小学期的作业，包括小作业和两次实验的代码。
+
+- [GitHub](https://github.com/jiegec/asm-homework)
+- 相关技术：汇编，x86，MIPS
+- 投入时间：很少
+- 喜爱：5
+- 收获：1
 
 ## 个人项目
 
