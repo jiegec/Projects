@@ -22,6 +22,7 @@
 | 2019.4  | 人工智能导论         | [Pinyin](#Pinyin)，[FourChess](#FourChess)，[EmotionClassifier](#EmotionClassifier) |
 | 2019.4  | 存储技术基础         | [KVEngine](#KVEngine)，[HERMES](#HERMES)                     |
 | 2019.5  | 多媒体技术基础       | [RBSplit](#RBSplit)，[MultimediaCompression](#MultimediaCompression)，[MultimediaSound](#MultimediaSound)，[MultimediaAnalysis](#MultimediaAnalysis) |
+| 2019.6  | 数字逻辑设计         | [NaiveRouter](#NaiveRouter)，[router](#router)，[router_mb](#router_mb)，[router_ksz8795](#router_ksz8795) |
 | 2019.7  | 专业实践             | [GuGuMIPS](#GuGuMIPS)，[GuGuMIPSSoC](#GuGuMIPSSoC)，[linux-gugumips](#linux-gugumips)，[u-boot-gugumips](#u-boot-gugumips)，[ucore-gugumips](#ucore-gugumips)，[usbh](#usbh) |
 | 2019.8  | Java程序设计与训练   | [JabaHomework](#JabaHomework)，[NewsApp](#NewsApp)           |
 
@@ -307,6 +308,46 @@ Java 大作业，一个简单的新闻 App 。
 - 投入时间：很少
 - 喜爱：1
 - 收获：1
+
+### NaiveRouter
+
+硬件转发的路由器 IP 实现，通过 AXI 与 CPU 交互。
+
+- [GitHub](https://github.com/jiegec/naiverouter)
+- 相关技术：SystemVerilog，网络，AXI
+- 投入时间：较多
+- 喜爱：10
+- 收获：10
+
+### router
+
+在黑金 AX7021 开发板上的 SoC ，采用了 NaiveRouter 进行硬件转发，在 PS 上实现 RIP 协议和路由信息的更新。另外还实现了 HDMI 的路由状态可视化。
+
+- [GitHub](https://github.com/jiegec/router)
+- 相关技术：Vivado
+- 投入时间：较多
+- 喜爱：10
+- 收获：10
+
+### router_mb
+
+同样在黑金 AX7021 开发板上的 SoC，也是采用 NaiveRouter 进行硬件转发，只不过把软件部分从 PS 移到了 MicroBlaze 中。
+
+- [GitHub](https://github.com/jiegec/router_mb)
+- 相关技术：Vivado
+- 投入时间：不多
+- 喜爱：8
+- 收获：5
+
+### router_ksz8795
+
+在 Pynq 外接 KSZ8795 扩展板上开发的 SoC ，采用 MicroBlaze 运行代码，对 KSZ8795 芯片的编程和操作进行了验证。
+
+- [GitHub](https://github.com/jiegec/router_ksz8795)
+- 相关技术：Vivado
+- 投入时间：不多
+- 喜爱：8
+- 收获：5
 
 ## 个人项目
 
