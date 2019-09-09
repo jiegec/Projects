@@ -22,7 +22,7 @@
 | 2019.4  | 人工智能导论         | [Pinyin](#Pinyin)，[FourChess](#FourChess)，[EmotionClassifier](#EmotionClassifier) |
 | 2019.4  | 存储技术基础         | [KVEngine](#KVEngine)，[HERMES](#HERMES)                     |
 | 2019.5  | 多媒体技术基础       | [RBSplit](#RBSplit)，[MultimediaCompression](#MultimediaCompression)，[MultimediaSound](#MultimediaSound)，[MultimediaAnalysis](#MultimediaAnalysis) |
-| 2019.6  | 数字逻辑设计         | [NaiveRouter](#NaiveRouter)，[router](#router)，[router_mb](#router_mb)，[router_ksz8795](#router_ksz8795) |
+| 2019.6  | 数字逻辑设计         | [NaiveRouter](#NaiveRouter)，[router](#router)，[router_mb](#router_mb)，[router_ksz8795](#router_ksz8795)，[rgmiimux](#rgmiimux) |
 | 2019.7  | 专业实践             | [GuGuMIPS](#GuGuMIPS)，[GuGuMIPSSoC](#GuGuMIPSSoC)，[linux-gugumips](#linux-gugumips)，[u-boot-gugumips](#u-boot-gugumips)，[ucore-gugumips](#ucore-gugumips)，[usbh](#usbh) |
 | 2019.8  | Java程序设计与训练   | [JabaHomework](#JabaHomework)，[NewsApp](#NewsApp)           |
 | 2019.8  | 汇编语言程序设计     | [asm-homework](#asm-homework)                                |
@@ -349,6 +349,16 @@ Java 大作业，一个简单的新闻 App 。
 - 投入时间：不多
 - 喜爱：8
 - 收获：5
+
+### rgmiimux
+
+一个 RGMII “一分四”的 IP，通过 VLAN 进行区分，类似 KSZ8795 的部分功能，只不过是在FPGA内部实现。
+
+- [GitHub](https://github.com/jiegec/rgmiimux)
+- 相关技术：Vivado
+- 投入时间：不多
+- 喜爱：5
+- 收获：3
 
 ### asm-homework
 
