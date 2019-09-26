@@ -26,13 +26,16 @@
 | 2019.7  | 专业实践             | [GuGuMIPS](#GuGuMIPS)，[GuGuMIPSSoC](#GuGuMIPSSoC)，[linux-gugumips](#linux-gugumips)，[u-boot-gugumips](#u-boot-gugumips)，[ucore-gugumips](#ucore-gugumips)，[usbh](#usbh) |
 | 2019.8  | Java程序设计与训练   | [JabaHomework](#JabaHomework)，[NewsApp](#NewsApp)           |
 | 2019.8  | 汇编语言程序设计     | [asm-homework](#asm-homework)                                |
+| 2019.9  | 计算机网络安全技术   | [sdes-visualization](#sdes-visualization)                    |
 
 ### 个人项目
 
-| 时间   | 内容                     | 项目                      |
-| ------ | ------------------------ | ------------------------- |
-| 2016.3 | macOS 上的手势软件       | [MacGesture](#MacGesture) |
-| 2018.2 | Stanford CS140e 实验课程 | [CS140e](#CS140e)         |
+| 时间   | 内容                         | 项目                                  |
+| ------ | ---------------------------- | ------------------------------------- |
+| 2016.3 | macOS 上的手势软件           | [MacGesture](#MacGesture)             |
+| 2018.2 | Stanford CS140e 实验课程     | [CS140e](#CS140e)                     |
+| 2019.7 | GitHub Classroom 辅助 TUI    | [classroom-helper](#classroom-helper) |
+| 2019.9 | Verilog/SystemVerilog 格式化 | [verilog-format](#verilog-format)     |
 
 ## 计算机系课程作业
 
@@ -370,6 +373,16 @@ Java 大作业，一个简单的新闻 App 。
 - 喜爱：5
 - 收获：1
 
+### sdes-visualization
+
+对 S-DES 加密过程的可视化，非课程要求。
+
+- [GitHub](https://github.com/jiegec/sdes-visualization)
+- 相关技术：Elm，CSS
+- 投入时间：很少
+- 喜爱：10
+- 收获：3
+
 ## 个人项目
 
 ### MacGesture
@@ -391,5 +404,25 @@ Java 大作业，一个简单的新闻 App 。
 * 投入时间：较多
 * 喜爱：10
 * 收获：10
+
+### classroom-helper
+
+为“实验物理的大数据方法”课程编写的工具，配合 GitHub Classroom 使用的工具，自动批量 clone 作业仓库，并且执行脚本进行评分，显示代码更改历史。
+
+- [GitHub](https://github.com/jiegec/classroom-helper)
+- 相关技术：Rust，TUI
+- 投入时间：不多
+- 喜爱：10
+- 收获：3
+
+### verilog-format
+
+一个简单的 Verilog / SystemVerilog 格式化工具。
+
+- [GitHub](https://github.com/jiegec/verilog-format)
+- 相关技术：Rust，Nom，Parsing
+- 投入时间：不多
+- 喜爱：10
+- 收获：5
 
 ## 未完待续
