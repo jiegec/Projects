@@ -12,19 +12,19 @@
 
 | 时间    | 课程                 | 项目                                                         |
 | ------- | -------------------- | ------------------------------------------------------------ |
-| 2017.10 | 离散数学             | [Props](#Props)                                              |
-| 2017.11 | 程序设计基础         | [SimpleExtFs](#SimpleExtFs)                                  |
-| 2018.5  | 面向对象程序设计基础 | [OnePassSynthesisDMFB](#OnePassSynthesisDMFB)，[NaiveLedger](#NaiveLedger) |
-| 2018.6  | 概率论与数理统计     | [HLLeBPF](#HLLeBPF)                                          |
-| 2018.7  | 程序设计小学期       | [DMCD](#DMCD)，[ChineseChess](#ChineseChess)，[SearchEngine](#SearchEngine) |
-| 2018.11 | 软件工程             | [Info9](#Info9)                                              |
-| 2019.2  | 操作系统             | [rCore](#rCore)                                              |
-| 2019.4  | 人工智能导论         | [Pinyin](#Pinyin)，[FourChess](#FourChess)，[EmotionClassifier](#EmotionClassifier) |
-| 2019.4  | 存储技术基础         | [KVEngine](#KVEngine)，[HERMES](#HERMES)                     |
-| 2019.5  | 多媒体技术基础       | [RBSplit](#RBSplit)，[MultimediaCompression](#MultimediaCompression)，[MultimediaSound](#MultimediaSound)，[MultimediaAnalysis](#MultimediaAnalysis) |
-| 2019.6  | 数字逻辑设计         | [NaiveRouter](#NaiveRouter)，[router](#router)，[router_mb](#router_mb)，[router_ksz8795](#router_ksz8795)，[rgmiimux](#rgmiimux) |
-| 2019.7  | 专业实践             | [GuGuMIPS](#GuGuMIPS)，[GuGuMIPSSoC](#GuGuMIPSSoC)，[linux-gugumips](#linux-gugumips)，[u-boot-gugumips](#u-boot-gugumips)，[ucore-gugumips](#ucore-gugumips)，[usbh](#usbh) |
-| 2019.8  | Java程序设计与训练   | [JabaHomework](#JabaHomework)，[NewsApp](#NewsApp)           |
+| 2017.10 | 离散数学             | [Props](#props)                                              |
+| 2017.11 | 程序设计基础         | [SimpleExtFs](#simpleextfs)                                  |
+| 2018.5  | 面向对象程序设计基础 | [OnePassSynthesisDMFB](#onepasssynthesisdmfb)，[NaiveLedger](#naiveledger) |
+| 2018.6  | 概率论与数理统计     | [HLLeBPF](#hllebpf)                                          |
+| 2018.7  | 程序设计小学期       | [DMCD](#dmcd)，[ChineseChess](#chinesechess)，[SearchEngine](#searchengine) |
+| 2018.11 | 软件工程             | [Info9](#info9)                                              |
+| 2019.2  | 操作系统             | [rCore](#rcore)                                              |
+| 2019.4  | 人工智能导论         | [Pinyin](#pinyin)，[FourChess](#fourchess)，[EmotionClassifier](#emotionclassifier) |
+| 2019.4  | 存储技术基础         | [KVEngine](#kvengine)，[HERMES](#hermes)                     |
+| 2019.5  | 多媒体技术基础       | [RBSplit](#rbsplit)，[MultimediaCompression](#multimediacompression)，[MultimediaSound](#multimediasound)，[MultimediaAnalysis](#multimediaanalysis) |
+| 2019.6  | 数字逻辑设计         | [NaiveRouter](#naiverouter)，[router](#router)，[router_mb](#router_mb)，[router_ksz8795](#router_ksz8795)，[rgmiimux](#rgmiimux) |
+| 2019.7  | 专业实践             | [GuGuMIPS](#gugumips)，[GuGuMIPSSoC](#gugumipssoc)，[linux-gugumips](#linux-gugumips)，[u-boot-gugumips](#u-boot-gugumips)，[ucore-gugumips](#ucore-gugumips)，[usbh](#usbh) |
+| 2019.8  | Java程序设计与训练   | [JabaHomework](#jabahomework)，[NewsApp](#newsapp)           |
 | 2019.8  | 汇编语言程序设计     | [asm-homework](#asm-homework)                                |
 | 2019.9  | 计算机网络安全技术   | [sdes-visualization](#sdes-visualization)                    |
 | 2019.10 | 计算机组成原理       | [booth-visualization](#booth-visualization)                  |
@@ -33,8 +33,8 @@
 
 | 时间   | 内容                         | 项目                                  |
 | ------ | ---------------------------- | ------------------------------------- |
-| 2016.3 | macOS 上的手势软件           | [MacGesture](#MacGesture)             |
-| 2018.2 | Stanford CS140e 实验课程     | [CS140e](#CS140e)                     |
+| 2016.3 | macOS 上的手势软件           | [MacGesture](#macgesture)             |
+| 2018.2 | Stanford CS140e 实验课程     | [CS140e](#cs140e)                     |
 | 2019.7 | GitHub Classroom 辅助 TUI    | [classroom-helper](#classroom-helper) |
 | 2019.9 | Verilog/SystemVerilog 格式化 | [verilog-format](#verilog-format)     |
 
