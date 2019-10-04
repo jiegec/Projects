@@ -27,7 +27,7 @@
 | 2019.8  | Java程序设计与训练   | [JabaHomework](#jabahomework)，[NewsApp](#newsapp)           |
 | 2019.8  | 汇编语言程序设计     | [asm-homework](#asm-homework)                                |
 | 2019.9  | 计算机网络安全技术   | [sdes-visualization](#sdes-visualization)                    |
-| 2019.10 | 计算机组成原理       | [booth-visualization](#booth-visualization)                  |
+| 2019.10 | 计算机组成原理       | [booth-visualization](#booth-visualization),[integer-divide-visualization](#integer-divide-visualization) |
 
 ### 个人项目
 
@@ -389,6 +389,16 @@ Java 大作业，一个简单的新闻 App 。
 对 Booth 乘法过程的可视化，非课程要求。
 
 - [GitHub](https://github.com/jiegec/booth-visualization)
+- 相关技术：Elm
+- 投入时间：很少
+- 喜爱：10
+- 收获：3
+
+### integer-divide-visualization
+
+对整数除法过程的可视化，非课程要求。
+
+- [GitHub](https://github.com/jiegec/integer-divide-visualization)
 - 相关技术：Elm
 - 投入时间：很少
 - 喜爱：10
