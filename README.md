@@ -8,7 +8,7 @@
 
 ## 目录
 
-### 计算机系课程作业
+### 计算机系课程及相关作业
 
 | 时间    | 课程                 | 项目                                                         |
 | ------- | -------------------- | ------------------------------------------------------------ |
@@ -27,7 +27,7 @@
 | 2019.8  | Java程序设计与训练   | [JabaHomework](#jabahomework)，[NewsApp](#newsapp)           |
 | 2019.8  | 汇编语言程序设计     | [asm-homework](#asm-homework)                                |
 | 2019.9  | 计算机网络安全技术   | [sdes-visualization](#sdes-visualization)                    |
-| 2019.10 | 计算机组成原理       | [booth-visualization](#booth-visualization),[integer-divide-visualization](#integer-divide-visualization) |
+| 2019.10 | 计算机组成原理       | [booth-visualization](#booth-visualization)，[integer-divide-visualization](#integer-divide-visualization) |
 | 2019.10 | 编译原理             | [online_tac_vm](#online_tac_vm)，[online_decaf](#online_decaf)，[gll-pg](#gll-pg)，[decaf-lsp](#decaf-lsp) |
 
 ### 个人项目
@@ -375,68 +375,6 @@ Java 大作业，一个简单的新闻 App 。
 - 喜爱：5
 - 收获：1
 
-## 非课程项目
-
-### MacGesture
-
-高中时候接手的一个项目，在 macOS 上进行手势识别，然后执行相应的动作。
-
-* [GitHub](https://github.com/MacGesture/MacGesture)
-* 相关技术：Objective-C
-* 投入时间：不多
-* 喜爱：3
-* 收获：2
-
-### CS140e
-
-大一寒假的时候，Stanford CS140e 首次做出了用 Rust 写操作系统作为实验课程的尝试，我也跟着做了。
-
-* [GitHub](https://github.com/jiegec/cs140e)
-* 相关技术：Rust，操作系统
-* 投入时间：较多
-* 喜爱：10
-* 收获：10
-
-### classroom-helper
-
-为“实验物理的大数据方法”课程编写的工具，配合 GitHub Classroom 使用的工具，自动批量 clone 作业仓库，并且执行脚本进行评分，显示代码更改历史。
-
-- [GitHub](https://github.com/jiegec/classroom-helper)
-- 相关技术：Rust，TUI
-- 投入时间：不多
-- 喜爱：10
-- 收获：3
-
-### verilog-format
-
-一个简单的 Verilog / SystemVerilog 格式化工具。
-
-- [GitHub](https://github.com/jiegec/verilog-format)
-- 相关技术：Rust，Nom，Parsing
-- 投入时间：不多
-- 喜爱：10
-- 收获：5
-
-### online_tac_vm
-
-在线的 TAC 虚拟机，可以在线执行编译原理 PA3生成的 TAC。
-
-- [GitHub](https://github.com/jiegec/online_tac_vm)
-- 相关技术：Rust，Yew
-- 投入时间：很少
-- 喜爱：10
-- 收获：3
-
-### online_decaf
-
-在线的 Decaf 编译器，可以在线运行编译原理的 PA 。
-
-- [GitHub](https://github.com/jiegec/online_decaf)
-- 相关技术：Rust，Yew
-- 投入时间：很少
-- 喜爱：10
-- 收获：3
-
 ### sdes-visualization
 
 对 S-DES 加密过程的可视化。
@@ -486,5 +424,69 @@ Decaf 语言的 LSP Server 实现，支持 Hover 、 Symbol 等功能，配合 [
 - 投入时间：不多
 - 喜爱：10
 - 收获：10
+
+### online_tac_vm
+
+在线的 TAC 虚拟机，可以在线执行编译原理 PA3生成的 TAC。
+
+- [GitHub](https://github.com/jiegec/online_tac_vm)
+- 相关技术：Rust，Yew
+- 投入时间：很少
+- 喜爱：10
+- 收获：3
+
+### online_decaf
+
+在线的 Decaf 编译器，可以在线运行编译原理的 PA 。
+
+- [GitHub](https://github.com/jiegec/online_decaf)
+- 相关技术：Rust，Yew
+- 投入时间：很少
+- 喜爱：10
+- 收获：3
+
+## 非课程项目
+
+### MacGesture
+
+高中时候接手的一个项目，在 macOS 上进行手势识别，然后执行相应的动作。
+
+* [GitHub](https://github.com/MacGesture/MacGesture)
+* 相关技术：Objective-C
+* 投入时间：不多
+* 喜爱：3
+* 收获：2
+
+### CS140e
+
+大一寒假的时候，Stanford CS140e 首次做出了用 Rust 写操作系统作为实验课程的尝试，我也跟着做了。
+
+* [GitHub](https://github.com/jiegec/cs140e)
+* 相关技术：Rust，操作系统
+* 投入时间：较多
+* 喜爱：10
+* 收获：10
+
+### classroom-helper
+
+为“实验物理的大数据方法”课程编写的工具，配合 GitHub Classroom 使用的工具，自动批量 clone 作业仓库，并且执行脚本进行评分，显示代码更改历史。
+
+- [GitHub](https://github.com/jiegec/classroom-helper)
+- 相关技术：Rust，TUI
+- 投入时间：不多
+- 喜爱：10
+- 收获：3
+
+### verilog-format
+
+一个简单的 Verilog / SystemVerilog 格式化工具。
+
+- [GitHub](https://github.com/jiegec/verilog-format)
+- 相关技术：Rust，Nom，Parsing
+- 投入时间：不多
+- 喜爱：10
+- 收获：5
+
+- 
 
 ## 未完待续
