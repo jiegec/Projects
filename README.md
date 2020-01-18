@@ -23,6 +23,7 @@
 | 2019.4  | 存储技术基础         | [KVEngine](#kvengine)，[HERMES](#hermes)                     |
 | 2019.5  | 多媒体技术基础       | [RBSplit](#rbsplit)，[MultimediaCompression](#multimediacompression)，[MultimediaSound](#multimediasound)，[MultimediaAnalysis](#multimediaanalysis) |
 | 2019.6  | 数字逻辑设计         | [NaiveRouter](#naiverouter)，[router](#router)，[router_mb](#router_mb)，[router_ksz8795](#router_ksz8795)，[rgmiimux](#rgmiimux) |
+| 2019.6  | 计算机网络原理       | [Router-Lab](#Router-Lab)                                    |
 | 2019.7  | 专业实践             | [GuGuMIPS](#gugumips)，[GuGuMIPSSoC](#gugumipssoc)，[linux-gugumips](#linux-gugumips)，[u-boot-gugumips](#u-boot-gugumips)，[ucore-gugumips](#ucore-gugumips)，[usbh](#usbh) |
 | 2019.8  | Java程序设计与训练   | [JabaHomework](#jabahomework)，[NewsApp](#newsapp)           |
 | 2019.8  | 汇编语言程序设计     | [asm-homework](#asm-homework)                                |
@@ -463,6 +464,16 @@ Decaf 语言的 LSP Server 实现，支持 Hover 、 Symbol 等功能，配合 [
 - 相关技术：Rust
 - 投入时间：不多
 - 喜爱：5
+- 收获：5
+
+### Router-Lab
+
+2019 计算机网络原理课程的实验。
+
+- [GitHub](https://github.com/z4yx/Router-Lab)
+- 相关技术：Networking
+- 投入时间：较多
+- 喜爱：10
 - 收获：5
 
 ## 非课程项目
