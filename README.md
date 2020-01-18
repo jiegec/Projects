@@ -28,7 +28,7 @@
 | 2019.8  | 汇编语言程序设计     | [asm-homework](#asm-homework)                                |
 | 2019.9  | 计算机网络安全技术   | [sdes-visualization](#sdes-visualization)                    |
 | 2019.10 | 计算机组成原理       | [booth-visualization](#booth-visualization)，[integer-divide-visualization](#integer-divide-visualization)，[rocket2thinpad](#rocket2thinpad) |
-| 2019.10 | 编译原理             | [online_tac_vm](#online_tac_vm)，[online_decaf](#online_decaf)，[gll-pg](#gll-pg)，[decaf-lsp](#decaf-lsp) |
+| 2019.10 | 编译原理             | [online_tac_vm](#online_tac_vm)，[online_decaf](#online_decaf)，[gll-pg](#gll-pg)，[decaf-lsp](#decaf-lsp)，[decaf-rs-pa](#decaf-rs-pa) |
 
 ### 个人项目
 
@@ -455,7 +455,15 @@ Decaf 语言的 LSP Server 实现，支持 Hover 、 Symbol 等功能，配合 [
 - 喜爱：10
 - 收获：7
 
+### decaf-rs-pa
 
+编译原理的 PA，基于 @MashPlant 的 Rust 框架。
+
+- [GitHub](https://github.com/jiegec/decaf-rs-pa)
+- 相关技术：Rust
+- 投入时间：不多
+- 喜爱：5
+- 收获：5
 
 ## 非课程项目
 
