@@ -30,6 +30,7 @@
 | 2019.9  | 计算机网络安全技术   | [sdes-visualization](#sdes-visualization)                    |
 | 2019.10 | 计算机组成原理       | [booth-visualization](#booth-visualization)，[integer-divide-visualization](#integer-divide-visualization)，[rocket2thinpad](#rocket2thinpad) |
 | 2019.10 | 编译原理             | [online_tac_vm](#online_tac_vm)，[online_decaf](#online_decaf)，[gll-pg](#gll-pg)，[decaf-lsp](#decaf-lsp)，[decaf-rs-pa](#decaf-rs-pa) |
+| 2020.01 | 信号处理原理         | [SignalProcessing](#SignalProcessing)                        |
 
 ### 个人项目
 
@@ -475,6 +476,16 @@ Decaf 语言的 LSP Server 实现，支持 Hover 、 Symbol 等功能，配合 [
 - 投入时间：较多
 - 喜爱：10
 - 收获：5
+
+### SignalProcessing
+
+信号处理原理课程的实验。
+
+- [GitHub](https://github.com/jiegec/SignalProcessing)
+- 相关技术：信号处理
+- 投入时间：较少
+- 喜爱：3
+- 收获：3
 
 ## 非课程项目
 
