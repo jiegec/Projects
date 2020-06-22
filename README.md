@@ -31,15 +31,20 @@
 | 2019.10 | 计算机组成原理       | [booth-visualization](#booth-visualization)，[integer-divide-visualization](#integer-divide-visualization)，[rocket2thinpad](#rocket2thinpad) |
 | 2019.10 | 编译原理             | [online_tac_vm](#online_tac_vm)，[online_decaf](#online_decaf)，[gll-pg](#gll-pg)，[decaf-lsp](#decaf-lsp)，[decaf-rs-pa](#decaf-rs-pa) |
 | 2020.01 | 信号处理原理         | [SignalProcessing](#SignalProcessing)                        |
+| 2020.04 | 现代密码学           | [crypto](#crypto)                                            |
+| 2020.05 | 网络编程技术         | [file-server](#file-server)                                  |
 
-### 个人项目
+### 个人参与或编写的项目
 
-| 时间   | 内容                         | 项目                                  |
-| ------ | ---------------------------- | ------------------------------------- |
-| 2016.3 | macOS 上的手势软件           | [MacGesture](#macgesture)             |
-| 2018.2 | Stanford CS140e 实验课程     | [CS140e](#cs140e)                     |
-| 2019.7 | GitHub Classroom 辅助 TUI    | [classroom-helper](#classroom-helper) |
-| 2019.9 | Verilog/SystemVerilog 格式化 | [verilog-format](#verilog-format)     |
+| 时间    | 内容                                          | 项目                                          |
+| ------- | --------------------------------------------- | --------------------------------------------- |
+| 2016.03 | macOS 上的手势软件                            | [MacGesture](#macgesture)                     |
+| 2017.10 | 清华网络学堂的备份工具                        | [clone-learn-tsinghua](#clone-learn-tsinghua) |
+| 2018.02 | Stanford CS140e 实验课程                      | [CS140e](#cs140e)                             |
+| 2019.02 | Rustup 镜像工具                               | [rustup-mirror](#rustup-mirror)               |
+| 2019.07 | GitHub Classroom 辅助 TUI                     | [classroom-helper](#classroom-helper)         |
+| 2019.09 | Verilog/SystemVerilog 格式化                  | [verilog-format](#verilog-format)             |
+| 2020.05 | Webhookd 对 Gitlab/GitHub 的 webhook 进行响应 | [webhookd](#webhookd)                         |
 
 ## 计算机系课程作业
 
@@ -487,6 +492,26 @@ Decaf 语言的 LSP Server 实现，支持 Hover 、 Symbol 等功能，配合 [
 - 喜爱：3
 - 收获：3
 
+### crypto
+
+现代密码学课程的实验。要求实现几个密码学算法。
+
+- [GitHub](https://github.com/jiegec/crypto)
+- 相关技术：密码学
+- 投入时间：较少
+- 喜爱：5
+- 收获：5
+
+### file-server
+
+网络编程技术课程的实验。要求实现支持上传和下载的文件服务器和配套的客户端。
+
+- [GitHub](https://github.com/jiegec/file-server)
+- 相关技术：网络编程
+- 投入时间：很少
+- 喜爱：2
+- 收获：2
+
 ## 非课程项目
 
 ### MacGesture
@@ -499,6 +524,16 @@ Decaf 语言的 LSP Server 实现，支持 Hover 、 Symbol 等功能，配合 [
 * 喜爱：3
 * 收获：2
 
+### clone-learn-tsinghua
+
+清华网络学堂的备份工具。用于毕业生的资料归档。
+
+* [GitHub](https://github.com/jiegec/clone-learn-tsinghua)
+* 相关技术：TypeScript
+* 投入时间：不多
+* 喜爱：8
+* 收获：1
+
 ### CS140e
 
 大一寒假的时候，Stanford CS140e 首次做出了用 Rust 写操作系统作为实验课程的尝试，我也跟着做了。
@@ -508,6 +543,16 @@ Decaf 语言的 LSP Server 实现，支持 Hover 、 Symbol 等功能，配合 [
 * 投入时间：较多
 * 喜爱：10
 * 收获：10
+
+### rustup-mirror
+
+把 rustup 同步到本地的工具，用于 TUNA 等镜像站。
+
+- [GitHub](https://github.com/jiegec/rustup-mirror)
+- 相关技术：Rust
+- 投入时间：不多
+- 喜爱：10
+- 收获：3
 
 ### classroom-helper
 
@@ -521,7 +566,7 @@ Decaf 语言的 LSP Server 实现，支持 Hover 、 Symbol 等功能，配合 [
 
 ### verilog-format
 
-一个简单的 Verilog / SystemVerilog 格式化工具。
+一个简单的 Verilog / SystemVerilog 格式化工具。未完成，勿用。
 
 - [GitHub](https://github.com/jiegec/verilog-format)
 - 相关技术：Rust，Nom，Parsing
@@ -529,6 +574,14 @@ Decaf 语言的 LSP Server 实现，支持 Hover 、 Symbol 等功能，配合 [
 - 喜爱：10
 - 收获：5
 
-- 
+### webhookd
+
+一个用于处理 webhook 消息并执行操作的服务。支持 Gitlab 和 GitHub。
+
+- [GitHub](https://github.com/jiegec/webhookd)
+- 相关技术：Rust
+- 投入时间：不多
+- 喜爱：10
+- 收获：3
 
 ## 未完待续
