@@ -31,7 +31,9 @@
 | 2019.10 | 计算机组成原理       | [booth-visualization](#booth-visualization)，[integer-divide-visualization](#integer-divide-visualization)，[rocket2thinpad](#rocket2thinpad) |
 | 2019.10 | 编译原理             | [online_tac_vm](#online_tac_vm)，[online_decaf](#online_decaf)，[gll-pg](#gll-pg)，[decaf-lsp](#decaf-lsp)，[decaf-rs-pa](#decaf-rs-pa) |
 | 2020.01 | 信号处理原理         | [SignalProcessing](#SignalProcessing)                        |
-| 2020.04 | 现代密码学           | [crypto](#crypto)                                            |
+| 2020.03 | 软件分析与验证       | [dpll](#dpll)                                                |
+| 2020.04 | 计算机系统结构       | [cache](#cache)，[tomasulo](#tomasulo)                       |
+| 2020.04 | 现代密码学           | [crypto](#crypto)，[miller-rabin](#miller-rabin)             |
 | 2020.05 | 网络编程技术         | [file-server](#file-server)                                  |
 
 ### 个人参与或编写的项目
@@ -45,6 +47,7 @@
 | 2019.07 | GitHub Classroom 辅助 TUI                     | [classroom-helper](#classroom-helper)         |
 | 2019.09 | Verilog/SystemVerilog 格式化                  | [verilog-format](#verilog-format)             |
 | 2020.05 | Webhookd 对 Gitlab/GitHub 的 webhook 进行响应 | [webhookd](#webhookd)                         |
+| 2020.05 | USB/IP 服务端                                 | [usbip](#usbip)                               |
 
 ## 计算机系课程作业
 
@@ -502,6 +505,16 @@ Decaf 语言的 LSP Server 实现，支持 Hover 、 Symbol 等功能，配合 [
 - 喜爱：5
 - 收获：5
 
+### miller-rabin
+
+现代密码学课程的实验。要求实现 Miller-Rabin 算法。
+
+- [GitHub](https://github.com/jiegec/miller-rabin)
+- 相关技术：密码学
+- 投入时间：很少
+- 喜爱：3
+- 收获：3
+
 ### file-server
 
 网络编程技术课程的实验。要求实现支持上传和下载的文件服务器和配套的客户端。
@@ -511,6 +524,38 @@ Decaf 语言的 LSP Server 实现，支持 Hover 、 Symbol 等功能，配合 [
 - 投入时间：很少
 - 喜爱：2
 - 收获：2
+
+### dpll
+
+软件分析与验证课程的实验。要求实现 DPLL 算法来解决 SAT 问题。
+
+- [GitHub](https://github.com/jiegec/dpll)
+- 相关技术：C++
+- 投入时间：不多
+- 喜爱：5
+- 收获：3
+
+### cache
+
+计算机系统结构课程的实验。模拟一个 Cache 的行为。
+
+- [GitHub](https://github.com/jiegec/cache)
+- 相关技术：C++
+- 投入时间：很少
+- 喜爱：1
+- 收获：1
+
+### tomasulo
+
+计算机系统结构课程的实验。实现 Tomasulo 算法。
+
+- [GitHub](https://github.com/jiegec/tomasulo)
+- 相关技术：C++
+- 投入时间：不多
+- 喜爱：1
+- 收获：1
+
+
 
 ## 非课程项目
 
@@ -583,5 +628,15 @@ Decaf 语言的 LSP Server 实现，支持 Hover 、 Symbol 等功能，配合 [
 - 投入时间：不多
 - 喜爱：10
 - 收获：3
+
+### usbip
+
+运行一个 USB/IP 服务，可以模拟设备或者转发到 libusb。
+
+- [GitHub](https://github.com/jiegec/usbip)
+- 相关技术：Rust
+- 投入时间：不多
+- 喜爱：10
+- 收获：8
 
 ## 未完待续
