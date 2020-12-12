@@ -36,6 +36,14 @@
 | 2020.04 | 现代密码学           | [crypto](#crypto)，[miller-rabin](#miller-rabin)             |
 | 2020.05 | 网络编程技术         | [file-server](#file-server)                                  |
 
+### 参加比赛的项目
+
+| 时间    | 比赛      | 项目                                                         |
+| ------- | --------- | ------------------------------------------------------------ |
+| 2019.7  | 龙芯杯    | [GuGuMIPS](#gugumips)，[GuGuMIPSSoC](#gugumipssoc)，[linux-gugumips](#linux-gugumips)，[u-boot-gugumips](#u-boot-gugumips)，[ucore-gugumips](#ucore-gugumips)，[usbh](#usbh)，[nontrivial-mips](#nontrivial-mips)，[linux-nontrivial-mips](#linux-nontrivial-mips)，[u-boot-nontrivial-mips](#u-boot-nontrivialmips) |
+| 2020.8  | 华为杯    | [trivialcompiler](#trivialcompiler)                          |
+| 2020.11 | SC20 VSCC | [MemXCT](#MemXCT)，[miniVite](#miniVite)                     |
+
 ### 个人参与或编写的项目
 
 | 时间    | 内容                                          | 项目                                          |
