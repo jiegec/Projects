@@ -38,11 +38,12 @@
 
 ### 参加比赛的项目
 
-| 时间    | 比赛      | 项目                                                         |
-| ------- | --------- | ------------------------------------------------------------ |
-| 2019.7  | 龙芯杯    | [GuGuMIPS](#gugumips)，[GuGuMIPSSoC](#gugumipssoc)，[linux-gugumips](#linux-gugumips)，[u-boot-gugumips](#u-boot-gugumips)，[ucore-gugumips](#ucore-gugumips)，[usbh](#usbh)，[nontrivial-mips](#nontrivial-mips)，[linux-nontrivial-mips](#linux-nontrivial-mips)，[u-boot-nontrivial-mips](#u-boot-nontrivialmips) |
-| 2020.8  | 华为杯    | [trivialcompiler](#trivialcompiler)                          |
-| 2020.11 | SC20 VSCC | [MemXCT](#MemXCT)，[miniVite](#miniVite)                     |
+| 时间    | 比赛       | 项目                                                         |
+| ------- | ---------- | ------------------------------------------------------------ |
+| 2018.9  | THUCTF2018 | [ctf-writeups](#ctf-writeups)                                |
+| 2019.7  | 龙芯杯     | [GuGuMIPS](#gugumips)，[GuGuMIPSSoC](#gugumipssoc)，[linux-gugumips](#linux-gugumips)，[u-boot-gugumips](#u-boot-gugumips)，[ucore-gugumips](#ucore-gugumips)，[usbh](#usbh)，[nontrivial-mips](#nontrivial-mips)，[linux-nontrivial-mips](#linux-nontrivial-mips)，[u-boot-nontrivial-mips](#u-boot-nontrivialmips) |
+| 2020.8  | 华为杯     | [trivialcompiler](#trivialcompiler)                          |
+| 2020.11 | SC20 VSCC  | [MemXCT](#MemXCT)，[miniVite](#miniVite)                     |
 
 ### 个人参与或编写的项目
 
