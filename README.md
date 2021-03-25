@@ -55,8 +55,13 @@
 | 2019.02 | Rustup 镜像工具                               | [rustup-mirror](#rustup-mirror)               |
 | 2019.07 | GitHub Classroom 辅助 TUI                     | [classroom-helper](#classroom-helper)         |
 | 2019.09 | Verilog/SystemVerilog 格式化                  | [verilog-format](#verilog-format)             |
+| 2020.02 | JieLabs 数字逻辑实验平台                      | [JieLabs](#JieLabs)                           |
 | 2020.05 | Webhookd 对 Gitlab/GitHub 的 webhook 进行响应 | [webhookd](#webhookd)                         |
 | 2020.05 | USB/IP 服务端                                 | [usbip](#usbip)                               |
+| 2020.08 | TanLabs 网络原理实验平台                      | [TanLabs](#TanLabs)                           |
+| 2020.12 | HT42B534 USB 2 UART 板子                      | [HT42B534USB2UART](#HT42B534USB2UART)         |
+| 2021.03 | WM8731PMOD 板子                               | [WM8731PMOD](#WM8731PMOD)                     |
+| 2021.03 | YXPortal 实验用户管理系统                     | [YXPortal](#YXPortal)                         |
 
 ## 计算机系课程作业
 
@@ -628,6 +633,16 @@ Decaf 语言的 LSP Server 实现，支持 Hover 、 Symbol 等功能，配合 [
 - 喜爱：10
 - 收获：5
 
+### JieLabs
+
+数字逻辑实验平台，远程操作 FPGA 和一些元件。
+
+- [GitHub](https://github.com/thu-cs-lab/JieLabs-Web)
+- 相关技术：React、Rust、WebSocket、Buildroot
+- 投入时间：很多
+- 喜爱：10
+- 收获：10
+
 ### webhookd
 
 一个用于处理 webhook 消息并执行操作的服务。支持 Gitlab 和 GitHub。
@@ -644,6 +659,44 @@ Decaf 语言的 LSP Server 实现，支持 Hover 、 Symbol 等功能，配合 [
 
 - [GitHub](https://github.com/jiegec/usbip)
 - 相关技术：Rust
+- 投入时间：不多
+- 喜爱：10
+- 收获：8
+
+### TanLabs
+
+网络原理实验平台，包含 CI 自动评测，树莓派评测等功能。
+
+- 相关技术：React、Rust、S3、SQS
+- 投入时间：很多
+- 喜爱：10
+- 收获：10
+
+### HT42B534USB2UART
+
+一个 USB 2 UART 板子，采用的芯片是 HT42B534。
+
+- [GitHub](https://github.com/jiegec/HT42B534USB2UART)
+- 相关技术：KiCad、JLC
+- 投入时间：不多
+- 喜爱：10
+- 收获：10
+
+### WM8731PMOD
+
+一个 PMOD 接口的扩展板，上有 WM8731 芯片用于音频处理。
+
+- [GitHub](https://github.com/jiegec/WM8731PMOD)
+- 相关技术：LCEDA、JLC
+- 投入时间：不多
+- 喜爱：10
+- 收获：10
+
+### YXPortal
+
+一个简单的 OAuth 客户端+服务端，用于实验系统的用户认证。
+
+- 相关技术：Go、Elm
 - 投入时间：不多
 - 喜爱：10
 - 收获：8
