@@ -60,6 +60,7 @@
 | 2020.05 | USB/IP 服务端                                 | [usbip](#usbip)                               |
 | 2020.08 | TanLabs 网络原理实验平台                      | [TanLabs](#TanLabs)                           |
 | 2020.12 | HT42B534 USB 2 UART 板子                      | [HT42B534USB2UART](#HT42B534USB2UART)         |
+| 2021.02 | daccountd 分布式强一致 LDAP 服务器            | [daccound](#daccountd)                        |
 | 2021.03 | WM8731PMOD 板子                               | [WM8731PMOD](#WM8731PMOD)                     |
 | 2021.03 | YXPortal 实验用户管理系统                     | [YXPortal](#YXPortal)                         |
 
@@ -678,6 +679,16 @@ Decaf 语言的 LSP Server 实现，支持 Hover 、 Symbol 等功能，配合 [
 
 - [GitHub](https://github.com/jiegec/HT42B534USB2UART)
 - 相关技术：KiCad、JLC
+- 投入时间：不多
+- 喜爱：10
+- 收获：10
+
+### daccountd
+
+基于 etcd 编写的 LDAP 服务器。
+
+- [GitHub](https://github.com/jiegec/daccountd)
+- 相关技术：Go、Etcd
 - 投入时间：不多
 - 喜爱：10
 - 收获：10
