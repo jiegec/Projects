@@ -1,4 +1,4 @@
-# jiegec 的本科项目
+# jiegec 的项目
 
 受 [wangrunji0408/UndergraduateProjects](https://github.com/wangrunji0408/UndergraduateProjects) 启发，我也来总结一下。
 
@@ -658,7 +658,7 @@ Decaf 语言的 LSP Server 实现，支持 Hover 、 Symbol 等功能，配合 [
 
 运行一个 USB/IP 服务，可以模拟设备或者转发到 libusb。
 
-- [GitHub](https://github.com/jiegec/usbip)
+- [GitHub](https://github.coggm/jiegec/usbip)
 - 相关技术：Rust
 - 投入时间：不多
 - 喜爱：10
