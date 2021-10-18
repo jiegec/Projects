@@ -30,11 +30,11 @@
 | 2019.9  | 计算机网络安全技术   | [sdes-visualization](#sdes-visualization)                    |
 | 2019.10 | 计算机组成原理       | [booth-visualization](#booth-visualization)，[integer-divide-visualization](#integer-divide-visualization)，[rocket2thinpad](#rocket2thinpad) |
 | 2019.10 | 编译原理             | [online_tac_vm](#online_tac_vm)，[online_decaf](#online_decaf)，[gll-pg](#gll-pg)，[decaf-lsp](#decaf-lsp)，[decaf-rs-pa](#decaf-rs-pa) |
-| 2020.01 | 信号处理原理         | [SignalProcessing](#SignalProcessing)                        |
-| 2020.03 | 软件分析与验证       | [dpll](#dpll)                                                |
-| 2020.04 | 计算机系统结构       | [cache](#cache)，[tomasulo](#tomasulo)                       |
-| 2020.04 | 现代密码学           | [crypto](#crypto)，[miller-rabin](#miller-rabin)             |
-| 2020.05 | 网络编程技术         | [file-server](#file-server)                                  |
+| 2020.1  | 信号处理原理         | [SignalProcessing](#SignalProcessing)                        |
+| 2020.3  | 软件分析与验证       | [dpll](#dpll)                                                |
+| 2020.4  | 计算机系统结构       | [cache](#cache)，[tomasulo](#tomasulo)                       |
+| 2020.4  | 现代密码学           | [crypto](#crypto)，[miller-rabin](#miller-rabin)             |
+| 2020.5  | 网络编程技术         | [file-server](#file-server)                                  |
 
 ### 参加比赛的项目
 
