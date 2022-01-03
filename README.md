@@ -3,68 +3,75 @@
 受 [wangrunji0408/UndergraduateProjects](https://github.com/wangrunji0408/UndergraduateProjects) 启发，我也来总结一下。
 
 > Q：时间都去哪儿了？
->
+> 
 > A：刚刚睡醒 什么事
 
 ## 目录
 
 ### 计算机系课程及相关作业
 
-| 时间    | 课程                 | 项目                                                         |
-| ------- | -------------------- | ------------------------------------------------------------ |
-| 2017.10 | 离散数学             | [Props](#props)                                              |
-| 2017.11 | 程序设计基础         | [SimpleExtFs](#simpleextfs)                                  |
-| 2018.5  | 面向对象程序设计基础 | [OnePassSynthesisDMFB](#onepasssynthesisdmfb)，[NaiveLedger](#naiveledger) |
-| 2018.6  | 概率论与数理统计     | [HLLeBPF](#hllebpf)                                          |
-| 2018.7  | 程序设计小学期       | [DMCD](#dmcd)，[ChineseChess](#chinesechess)，[SearchEngine](#searchengine) |
-| 2018.11 | 软件工程             | [Info9](#info9)                                              |
-| 2019.2  | 操作系统             | [rCore](#rcore)                                              |
-| 2019.4  | 人工智能导论         | [Pinyin](#pinyin)，[FourChess](#fourchess)，[EmotionClassifier](#emotionclassifier) |
-| 2019.4  | 存储技术基础         | [KVEngine](#kvengine)，[HERMES](#hermes)                     |
-| 2019.5  | 多媒体技术基础       | [RBSplit](#rbsplit)，[MultimediaCompression](#multimediacompression)，[MultimediaSound](#multimediasound)，[MultimediaAnalysis](#multimediaanalysis) |
-| 2019.6  | 数字逻辑设计         | [NaiveRouter](#naiverouter)，[router](#router)，[router_mb](#router_mb)，[router_ksz8795](#router_ksz8795)，[rgmiimux](#rgmiimux) |
-| 2019.6  | 计算机网络原理       | [Router-Lab](#Router-Lab)                                    |
-| 2019.7  | 专业实践             | [GuGuMIPS](#gugumips)，[GuGuMIPSSoC](#gugumipssoc)，[linux-gugumips](#linux-gugumips)，[u-boot-gugumips](#u-boot-gugumips)，[ucore-gugumips](#ucore-gugumips)，[usbh](#usbh) |
-| 2019.8  | Java程序设计与训练   | [JabaHomework](#jabahomework)，[NewsApp](#newsapp)           |
-| 2019.8  | 汇编语言程序设计     | [asm-homework](#asm-homework)                                |
-| 2019.9  | 计算机网络安全技术   | [sdes-visualization](#sdes-visualization)                    |
-| 2019.10 | 计算机组成原理       | [booth-visualization](#booth-visualization)，[integer-divide-visualization](#integer-divide-visualization)，[rocket2thinpad](#rocket2thinpad) |
-| 2019.10 | 编译原理             | [online_tac_vm](#online_tac_vm)，[online_decaf](#online_decaf)，[gll-pg](#gll-pg)，[decaf-lsp](#decaf-lsp)，[decaf-rs-pa](#decaf-rs-pa) |
-| 2020.1  | 信号处理原理         | [SignalProcessing](#SignalProcessing)                        |
-| 2020.3  | 软件分析与验证       | [dpll](#dpll)                                                |
-| 2020.4  | 计算机系统结构       | [cache](#cache)，[tomasulo](#tomasulo)                       |
-| 2020.4  | 现代密码学           | [crypto](#crypto)，[miller-rabin](#miller-rabin)             |
-| 2020.5  | 网络编程技术         | [file-server](#file-server)                                  |
+| 时间      | 课程          | 项目                                                                                                                                                                      |
+| ------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2017.10 | 离散数学        | [Props](#props)                                                                                                                                                         |
+| 2017.11 | 程序设计基础      | [SimpleExtFs](#simpleextfs)                                                                                                                                             |
+| 2018.5  | 面向对象程序设计基础  | [OnePassSynthesisDMFB](#onepasssynthesisdmfb)，[NaiveLedger](#naiveledger)                                                                                               |
+| 2018.6  | 概率论与数理统计    | [HLLeBPF](#hllebpf)                                                                                                                                                     |
+| 2018.7  | 程序设计小学期     | [DMCD](#dmcd)，[ChineseChess](#chinesechess)，[SearchEngine](#searchengine)                                                                                               |
+| 2018.11 | 软件工程        | [Info9](#info9)                                                                                                                                                         |
+| 2019.2  | 操作系统        | [rCore](#rcore)                                                                                                                                                         |
+| 2019.4  | 人工智能导论      | [Pinyin](#pinyin)，[FourChess](#fourchess)，[EmotionClassifier](#emotionclassifier)                                                                                       |
+| 2019.4  | 存储技术基础      | [KVEngine](#kvengine)，[HERMES](#hermes)                                                                                                                                 |
+| 2019.5  | 多媒体技术基础     | [RBSplit](#rbsplit)，[MultimediaCompression](#multimediacompression)，[MultimediaSound](#multimediasound)，[MultimediaAnalysis](#multimediaanalysis)                       |
+| 2019.6  | 数字逻辑设计      | [NaiveRouter](#naiverouter)，[router](#router)，[router_mb](#router_mb)，[router_ksz8795](#router_ksz8795)，[rgmiimux](#rgmiimux)                                           |
+| 2019.6  | 计算机网络原理     | [Router-Lab](#Router-Lab)                                                                                                                                               |
+| 2019.7  | 专业实践        | [GuGuMIPS](#gugumips)，[GuGuMIPSSoC](#gugumipssoc)，[linux-gugumips](#linux-gugumips)，[u-boot-gugumips](#u-boot-gugumips)，[ucore-gugumips](#ucore-gugumips)，[usbh](#usbh) |
+| 2019.8  | Java程序设计与训练 | [JabaHomework](#jabahomework)，[NewsApp](#newsapp)                                                                                                                       |
+| 2019.8  | 汇编语言程序设计    | [asm-homework](#asm-homework)                                                                                                                                           |
+| 2019.9  | 计算机网络安全技术   | [sdes-visualization](#sdes-visualization)                                                                                                                               |
+| 2019.10 | 计算机组成原理     | [booth-visualization](#booth-visualization)，[integer-divide-visualization](#integer-divide-visualization)，[rocket2thinpad](#rocket2thinpad)                             |
+| 2019.10 | 编译原理        | [online_tac_vm](#online_tac_vm)，[online_decaf](#online_decaf)，[gll-pg](#gll-pg)，[decaf-lsp](#decaf-lsp)，[decaf-rs-pa](#decaf-rs-pa)                                     |
+| 2020.1  | 信号处理原理      | [SignalProcessing](#SignalProcessing)                                                                                                                                   |
+| 2020.3  | 软件分析与验证     | [dpll](#dpll)                                                                                                                                                           |
+| 2020.4  | 计算机系统结构     | [cache](#cache)，[tomasulo](#tomasulo)                                                                                                                                   |
+| 2020.4  | 现代密码学       | [crypto](#crypto)，[miller-rabin](#miller-rabin)                                                                                                                         |
+| 2020.5  | 网络编程技术      | [file-server](#file-server)                                                                                                                                             |
 
 ### 参加比赛的项目
 
-| 时间    | 比赛       | 项目                                                         |
-| ------- | ---------- | ------------------------------------------------------------ |
-| 2018.9  | THUCTF2018 | [ctf-writeups](#ctf-writeups)                                |
-| 2019.7  | 龙芯杯     | [GuGuMIPS](#gugumips)，[GuGuMIPSSoC](#gugumipssoc)，[linux-gugumips](#linux-gugumips)，[u-boot-gugumips](#u-boot-gugumips)，[ucore-gugumips](#ucore-gugumips)，[usbh](#usbh)，[nontrivial-mips](#nontrivial-mips)，[linux-nontrivial-mips](#linux-nontrivial-mips)，[u-boot-nontrivial-mips](#u-boot-nontrivialmips) |
-| 2020.8  | 华为杯     | [trivialcompiler](#trivialcompiler)                          |
-| 2020.11 | SC20 VSCC  | [MemXCT](#MemXCT)，[miniVite](#miniVite)                     |
+| 时间      | 比赛         | 项目                                                                                                                                                                                                                                                                                                           |
+| ------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2018.9  | THUCTF2018 | [ctf-writeups](#ctf-writeups)                                                                                                                                                                                                                                                                                |
+| 2019.7  | 龙芯杯        | [GuGuMIPS](#gugumips)，[GuGuMIPSSoC](#gugumipssoc)，[linux-gugumips](#linux-gugumips)，[u-boot-gugumips](#u-boot-gugumips)，[ucore-gugumips](#ucore-gugumips)，[usbh](#usbh)，[nontrivial-mips](#nontrivial-mips)，[linux-nontrivial-mips](#linux-nontrivial-mips)，[u-boot-nontrivial-mips](#u-boot-nontrivialmips) |
+| 2020.8  | 华为杯        | [trivialcompiler](#trivialcompiler)                                                                                                                                                                                                                                                                          |
+| 2020.11 | SC20 VSCC  | [MemXCT](#MemXCT)，[miniVite](#miniVite)                                                                                                                                                                                                                                                                      |
 
 ### 个人参与或编写的项目
 
-| 时间    | 内容                                          | 项目                                          |
-| ------- | --------------------------------------------- | --------------------------------------------- |
-| 2016.03 | macOS 上的手势软件                            | [MacGesture](#macgesture)                     |
-| 2017.10 | 清华网络学堂的备份工具                        | [clone-learn-tsinghua](#clone-learn-tsinghua) |
-| 2018.02 | Stanford CS140e 实验课程                      | [CS140e](#cs140e)                             |
-| 2019.02 | Rustup 镜像工具                               | [rustup-mirror](#rustup-mirror)               |
-| 2019.07 | GitHub Classroom 辅助 TUI                     | [classroom-helper](#classroom-helper)         |
-| 2019.09 | Verilog/SystemVerilog 格式化                  | [verilog-format](#verilog-format)             |
-| 2020.02 | JieLabs 数字逻辑实验平台                      | [JieLabs](#JieLabs)                           |
-| 2020.05 | Webhookd 对 Gitlab/GitHub 的 webhook 进行响应 | [webhookd](#webhookd)                         |
-| 2020.05 | USB/IP 服务端                                 | [usbip](#usbip)                               |
-| 2020.08 | TanLabs 网络原理实验平台                      | [TanLabs](#TanLabs)                           |
-| 2020.12 | HT42B534 USB 2 UART 板子                      | [HT42B534USB2UART](#HT42B534USB2UART)         |
-| 2021.02 | daccountd 分布式强一致 LDAP 服务器            | [daccound](#daccountd)                        |
-| 2021.03 | WM8731PMOD 板子                               | [WM8731PMOD](#WM8731PMOD)                     |
-| 2021.03 | YXPortal 实验用户管理系统                     | [YXPortal](#YXPortal)                         |
+| 时间      | 内容                                             | 项目                                            |
+| ------- | ---------------------------------------------- | --------------------------------------------- |
+| 2016.03 | macOS 上的手势软件                                   | [MacGesture](#macgesture)                     |
+| 2017.10 | 清华网络学堂的备份工具                                    | [clone-learn-tsinghua](#clone-learn-tsinghua) |
+| 2018.02 | Stanford CS140e 实验课程                           | [CS140e](#cs140e)                             |
+| 2019.02 | Rustup 镜像工具                                    | [rustup-mirror](#rustup-mirror)               |
+| 2019.07 | GitHub Classroom 辅助 TUI                        | [classroom-helper](#classroom-helper)         |
+| 2019.09 | Verilog/SystemVerilog 格式化                      | [verilog-format](#verilog-format)             |
+| 2020.02 | JieLabs 数字逻辑实验平台                               | [JieLabs](#JieLabs)                           |
+| 2020.05 | Webhookd 对 Gitlab/GitHub 的 webhook 进行响应        | [webhookd](#webhookd)                         |
+| 2020.05 | USB/IP 服务端                                     | [usbip](#usbip)                               |
+| 2020.08 | TanLabs 网络原理实验平台                               | [TanLabs](#TanLabs)                           |
+| 2020.11 | machine-tester 集群机器测试工具                        | [machine-tester](#machine-tester)             |
+| 2020.12 | HT42B534 USB 2 UART 板子                         | [HT42B534USB2UART](#HT42B534USB2UART)         |
+| 2021.01 | EspinalLib 使用 SpinalHDL 实现的 HDL 模块             | [EspinalLib](#espinnallib)                    |
+| 2021.02 | daccountd 分布式强一致 LDAP 服务器                      | [daccound](#daccountd)                        |
+| 2021.02 | minipxe 用于 PXE 的迷你 DHCP+TFTP 服务器               | [minipxe](#minpxe)                            |
+| 2021.03 | WM8731PMOD 板子                                  | [WM8731PMOD](#WM8731PMOD)                     |
+| 2021.03 | YXPortal 实验用户管理系统                              | [YXPortal](#YXPortal)                         |
+| 2021.09 | fpu-wrappers 浮点计算单元封装                          | [fpu-wrappers](#fpu-wrappers)                 |
+| 2021.09 | feishu-backup 飞书文档备份导出工具                       | [feishu-backup](#feishu-backup)               |
+| 2021.09 | rocket-chip-vcu128 在 VCU128 开发板上运行 Rocket Chip | [rocket-chip-vcu128](#rocket-chip-vcu128)     |
+| 2021.10 | gitlab-cloner GitLab 项目批量克隆工具                  | [gitlab-cloner](#gitlab-cloner)               |
 
-## 计算机系课程作业
+## 计算机系课程及相关作业
 
 ### Props
 
@@ -131,7 +138,7 @@ DMCD 是 Digital Microfluidic Chip Designer 的缩写。同样实现一个算法
 
 Qt 编写的中国象棋在线对战。
 
-*  [GitHub](https://github.com/jiegec/codingterm/tree/master/Week2)
+* [GitHub](https://github.com/jiegec/codingterm/tree/master/Week2)
 * 相关技术：Qt，Socket
 * 投入时间：不多
 * 喜爱：2
@@ -570,9 +577,7 @@ Decaf 语言的 LSP Server 实现，支持 Hover 、 Symbol 等功能，配合 [
 - 喜爱：1
 - 收获：1
 
-
-
-## 非课程项目
+## 个人参与或编写的项目
 
 ### MacGesture
 
@@ -664,7 +669,7 @@ Decaf 语言的 LSP Server 实现，支持 Hover 、 Symbol 等功能，配合 [
 - 喜爱：10
 - 收获：8
 
-### TanLabs
+### TANLabs
 
 网络原理实验平台，包含 CI 自动评测，树莓派评测等功能。
 
