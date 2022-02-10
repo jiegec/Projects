@@ -35,6 +35,8 @@
 | 2020.04 | 计算机系统结构     | [cache](#cache)，[tomasulo](#tomasulo)                                                                                                                                   |
 | 2020.04 | 现代密码学       | [crypto](#crypto)，[miller-rabin](#miller-rabin)                                                                                                                         |
 | 2020.05 | 网络编程技术      | [file-server](#file-server)                                                                                                                                             |
+| 2021.10 | 高等计算机系统结构   | [cache-advanced](#cache-advanced)                                                                                                                                       |
+| 2021.10 | 高性能计算实验     | [sgemm-optimize](#sgemm-optimize)                                                                                                                                       |
 
 ### 参加比赛的项目
 
