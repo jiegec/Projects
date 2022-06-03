@@ -62,7 +62,7 @@
 | 2020.05 | Rust 实现的 USB/IP 服务端                            | [usbip](#usbip)                               |
 | 2020.08 | TanLabs 网络原理实验平台                               | [TanLabs](#TanLabs)                           |
 | 2020.11 | machine-tester 集群机器测试工具                        | [machine-tester](#machine-tester)             |
-| 2020.12 | HT42B534 USB to UART 板子                        | [HT42B534USB2UART](#HT42B534USB2UART)         |
+| 2020.12 | HT42B534 USB to UART 开源 PCB 设计                 | [HT42B534USB2UART](#HT42B534USB2UART)         |
 | 2021.01 | EspinalLib 使用 SpinalHDL 实现的 HDL 模块             | [EspinalLib](#espinnallib)                    |
 | 2021.02 | daccountd 分布式强一致 LDAP 服务器                      | [daccountd](#daccountd)                       |
 | 2021.02 | minipxe 用于 PXE 的迷你 DHCP+TFTP 服务器               | [minipxe](#minpxe)                            |
@@ -72,6 +72,7 @@
 | 2021.09 | feishu-backup 飞书文档备份导出工具                       | [feishu-backup](#feishu-backup)               |
 | 2021.09 | rocket-chip-vcu128 在 VCU128 开发板上运行 Rocket Chip | [rocket-chip-vcu128](#rocket-chip-vcu128)     |
 | 2021.10 | gitlab-cloner GitLab 项目批量克隆工具                  | [gitlab-cloner](#gitlab-cloner)               |
+| 2021.12 | jtag-remote-server 远程 JTAG 调试工具                | [jtag-remote-server](#jtag-remote-server)     |
 
 ## 计算机系课程及相关作业
 
