@@ -51,22 +51,26 @@
 
 | 时间      | 内容                                             | 项目                                            |
 | ------- | ---------------------------------------------- | --------------------------------------------- |
-| 2016.03 | macOS 上的手势软件                                   | [MacGesture](#macgesture)                     |
-| 2017.10 | 清华网络学堂的备份工具                                    | [clone-learn-tsinghua](#clone-learn-tsinghua) |
-| 2018.02 | Stanford CS140e 实验课程                           | [CS140e](#cs140e)                             |
-| 2019.02 | Rustup 镜像工具                                    | [rustup-mirror](#rustup-mirror)               |
-| 2019.07 | GitHub Classroom 辅助 TUI                        | [classroom-helper](#classroom-helper)         |
-| 2019.09 | Verilog/SystemVerilog 格式化                      | [verilog-format](#verilog-format)             |
+| 2016.03 | MacGesture macOS 上的手势软件                        | [MacGesture](#macgesture)                     |
+| 2017.10 | clone-learn-tsinghua 清华网络学堂的备份工具               | [clone-learn-tsinghua](#clone-learn-tsinghua) |
+| 2018.02 | cs140e Stanford CS140e 实验课程                    | [CS140e](#cs140e)                             |
+| 2019.02 | rustup-mirror Rustup 镜像工具                      | [rustup-mirror](#rustup-mirror)               |
+| 2019.07 | classroom-helper GitHub Classroom 辅助 TUI       | [classroom-helper](#classroom-helper)         |
+| 2019.09 | verilog-format Verilog/SystemVerilog 格式化       | [verilog-format](#verilog-format)             |
 | 2020.02 | JieLabs 数字逻辑实验平台                               | [JieLabs](#JieLabs)                           |
+| 2020.02 | verilog-lang 递归下降的 Verilog Parser              | [verilog-lang](#verilog-lang)                 |
+| 2020.02 | maze-routing Rust 语言实现的 Grid Router 算法         | [maze-routing](#maze-routing)                 |
 | 2020.05 | Webhookd 对 Gitlab/GitHub 的 webhook 进行响应        | [webhookd](#webhookd)                         |
-| 2020.05 | Rust 实现的 USB/IP 服务端                            | [usbip](#usbip)                               |
+| 2020.05 | usbip 用 Rust 实现的 USB/IP 服务端                    | [usbip](#usbip)                               |
+| 2020.06 | cluster-job-monitor 集群任务状态监测                   | [cluster-job-monitor](#cluster-job-monitor)   |
+| 2020.07 | netconf-rs RFC2641 NETCONF 客户端库                | [netconf-rs](#netconf-rs)                     |
 | 2020.08 | TanLabs 网络原理实验平台                               | [TanLabs](#TanLabs)                           |
 | 2020.11 | machine-tester 集群机器测试工具                        | [machine-tester](#machine-tester)             |
 | 2020.12 | HT42B534 USB to UART 开源 PCB 设计                 | [HT42B534USB2UART](#HT42B534USB2UART)         |
 | 2021.01 | EspinalLib 使用 SpinalHDL 实现的 HDL 模块             | [EspinalLib](#espinnallib)                    |
 | 2021.02 | daccountd 分布式强一致 LDAP 服务器                      | [daccountd](#daccountd)                       |
 | 2021.02 | minipxe 用于 PXE 的迷你 DHCP+TFTP 服务器               | [minipxe](#minpxe)                            |
-| 2021.03 | WM8731PMOD 板子                                  | [WM8731PMOD](#WM8731PMOD)                     |
+| 2021.03 | WM8731PMOD 音频 PMOD 扩展板                         | [WM8731PMOD](#WM8731PMOD)                     |
 | 2021.03 | YXPortal 实验用户管理系统                              | [YXPortal](#YXPortal)                         |
 | 2021.09 | fpu-wrappers 浮点计算单元封装                          | [fpu-wrappers](#fpu-wrappers)                 |
 | 2021.09 | feishu-backup 飞书文档备份导出工具                       | [feishu-backup](#feishu-backup)               |
