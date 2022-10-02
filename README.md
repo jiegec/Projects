@@ -25,7 +25,7 @@
 | 2019.06 | 数字逻辑设计      | [NaiveRouter](#naiverouter)，[router](#router)，[router_mb](#router_mb)，[router_ksz8795](#router_ksz8795)，[rgmiimux](#rgmiimux)                                           |
 | 2019.06 | 计算机网络原理     | [Router-Lab](#Router-Lab)                                                                                                                                               |
 | 2019.07 | 专业实践        | [GuGuMIPS](#gugumips)，[GuGuMIPSSoC](#gugumipssoc)，[linux-gugumips](#linux-gugumips)，[u-boot-gugumips](#u-boot-gugumips)，[ucore-gugumips](#ucore-gugumips)，[usbh](#usbh) |
-| 2019.08 | Java程序设计与训练 | [JabaHomework](#jabahomework)，[NewsApp](#newsapp)                                                                                                                       |
+| 2019.08 | Java 程序设计与训练 | [JabaHomework](#jabahomework)，[NewsApp](#newsapp)                                                                                                                       |
 | 2019.08 | 汇编语言程序设计    | [asm-homework](#asm-homework)                                                                                                                                           |
 | 2019.09 | 计算机网络安全技术   | [sdes-visualization](#sdes-visualization)                                                                                                                               |
 | 2019.10 | 计算机组成原理     | [booth-visualization](#booth-visualization)，[integer-divide-visualization](#integer-divide-visualization)，[rocket2thinpad](#rocket2thinpad)                             |
@@ -92,7 +92,7 @@
 
 ### SimpleExtFs
 
-一个简单的内存文件系统，支持可持久化和一些简单的shell指令。
+一个简单的内存文件系统，支持可持久化和一些简单的 shell 指令。
 
 * [GitHub](https://github.com/jiegec/extfs)
 * 相关技术：C，FS
@@ -133,7 +133,7 @@ DMFB 是 Digital MicroFluidic Biochips 的缩写。需要实现一篇文章里�
 
 ### DMCD
 
-DMCD 是 Digital Microfluidic Chip Designer 的缩写。同样实现一个算法，按照给定的网络解一堆方程，然后用Qt可视化。可以在Qt上进行参数的调整，也可以用一个简单的遗传算法去求解。
+DMCD 是 Digital Microfluidic Chip Designer 的缩写。同样实现一个算法，按照给定的网络解一堆方程，然后用 Qt 可视化。可以在 Qt 上进行参数的调整，也可以用一个简单的遗传算法去求解。
 
 * [GitHub](https://github.com/jiegec/codingterm/tree/master/Week1)
 * 相关技术：Qt，遗传算法
@@ -195,7 +195,7 @@ Qt 编写的中国象棋在线对战。
 
 ### FourChess
 
-四字棋AI，用MCTS（UCT）实现。
+四字棋 AI，用 MCTS（UCT）实现。
 
 * [GitHub](https://github.com/jiegec/FourChess)
 * 相关技术：MCTS，UCT
@@ -246,7 +246,7 @@ Qt 编写的中国象棋在线对战。
 
 ### MultimediaCompression
 
-第一部分是用不同的方法计算图片的 DCT ，然后再逆回来对比图片质量。对比不同量化矩阵对于图片的质量的影响。第二部分是实现一个动作估计，从一系列图中捕捉一个物体的轨迹。
+第一部分是用不同的方法计算图片的 DCT，然后再逆回来对比图片质量。对比不同量化矩阵对于图片的质量的影响。第二部分是实现一个动作估计，从一系列图中捕捉一个物体的轨迹。
 
 * [GitHub](https://github.com/jiegec/MultimediaCompression)
 * 相关技术：Python
@@ -276,7 +276,7 @@ Qt 编写的中国象棋在线对战。
 
 ### GuGuMIPS
 
-自己编写的小端 MIPS32 实现，能够启动 Linux ，自己编写的 Cache 处于未完成状态。
+自己编写的小端 MIPS32 实现，能够启动 Linux，自己编写的 Cache 处于未完成状态。
 
 - [GitHub](https://github.com/jiegec/GuGuMIPS)
 - 相关技术：SystemVerilog
@@ -286,7 +286,7 @@ Qt 编写的中国象棋在线对战。
 
 ### GuGuMIPSSoC
 
-以 GuGuMIPS 为 CPU ，在龙芯实验箱上运行的一个 SoC ，支持网络，USB，LCD等外设
+以 GuGuMIPS 为 CPU，在龙芯实验箱上运行的一个 SoC，支持网络，USB，LCD 等外设
 
 - [GitHub](https://github.com/jiegec/GuGuMIPSSoC)
 - 相关技术：Vivado
@@ -296,7 +296,7 @@ Qt 编写的中国象棋在线对战。
 
 ### linux-gugumips
 
-为 GuGuMIPS 适配的 Linux 代码，从主线内核上直接 patch ，可以随时更新到最新内核。大部分代码参考了 [z4yx/linux-kernel](https://github.com/z4yx/linux-kernel)
+为 GuGuMIPS 适配的 Linux 代码，从主线内核上直接 patch，可以随时更新到最新内核。大部分代码参考了 [z4yx/linux-kernel](https://github.com/z4yx/linux-kernel)
 
 - [GitHub](https://github.com/jiegec/linux-gugumips)
 - 相关技术：Linux Kernel
@@ -346,7 +346,7 @@ Java OJ 上的作业外加考试。
 
 ### NewsApp
 
-Java 大作业，一个简单的新闻 App 。
+Java 大作业，一个简单的新闻 App。
 
 - [GitHub](https://github.com/qyz-thu/NewsApp)
 - 相关技术：Java，Android
@@ -366,7 +366,7 @@ Java 大作业，一个简单的新闻 App 。
 
 ### router
 
-在黑金 AX7021 开发板上的 SoC ，采用了 NaiveRouter 进行硬件转发，在 PS 上实现 RIP 协议和路由信息的更新。另外还实现了 HDMI 的路由状态可视化。
+在黑金 AX7021 开发板上的 SoC，采用了 NaiveRouter 进行硬件转发，在 PS 上实现 RIP 协议和路由信息的更新。另外还实现了 HDMI 的路由状态可视化。
 
 - [GitHub](https://github.com/jiegec/router)
 - 相关技术：Vivado
@@ -386,7 +386,7 @@ Java 大作业，一个简单的新闻 App 。
 
 ### router_ksz8795
 
-在 Pynq 外接 KSZ8795 扩展板上开发的 SoC ，采用 MicroBlaze 运行代码，对 KSZ8795 芯片的编程和操作进行了验证。
+在 Pynq 外接 KSZ8795 扩展板上开发的 SoC，采用 MicroBlaze 运行代码，对 KSZ8795 芯片的编程和操作进行了验证。
 
 - [GitHub](https://github.com/jiegec/router_ksz8795)
 - 相关技术：Vivado
@@ -396,7 +396,7 @@ Java 大作业，一个简单的新闻 App 。
 
 ### rgmiimux
 
-一个 RGMII “一分四”的 IP，通过 VLAN 进行区分，类似 KSZ8795 的部分功能，只不过是在FPGA内部实现。
+一个 RGMII“一分四”的 IP，通过 VLAN 进行区分，类似 KSZ8795 的部分功能，只不过是在 FPGA 内部实现。
 
 - [GitHub](https://github.com/jiegec/rgmiimux)
 - 相关技术：Vivado
@@ -446,7 +446,7 @@ Java 大作业，一个简单的新闻 App 。
 
 ### gll-pg
 
-一个 GLL 的 Parser Generator ，参考了 MashPlant/lalr1 和 GLL 论文。
+一个 GLL 的 Parser Generator，参考了 MashPlant/lalr1 和 GLL 论文。
 
 - [GitHub](https://github.com/jiegec/gll-pg)
 - 相关技术：Rust，Proc macro，Parsing
@@ -456,7 +456,7 @@ Java 大作业，一个简单的新闻 App 。
 
 ### decaf-lsp
 
-Decaf 语言的 LSP Server 实现，支持 Hover 、 Symbol 等功能，配合 [decaf-vscode](https://github.com/jiegec/decaf-vscode) 使用。
+Decaf 语言的 LSP Server 实现，支持 Hover、Symbol 等功能，配合 [decaf-vscode](https://github.com/jiegec/decaf-vscode) 使用。
 
 - [GitHub](https://github.com/jiegec/decaf-lsp)
 - 相关技术：Rust，LSP，VSCode
@@ -466,7 +466,7 @@ Decaf 语言的 LSP Server 实现，支持 Hover 、 Symbol 等功能，配合 [
 
 ### online_tac_vm
 
-在线的 TAC 虚拟机，可以在线执行编译原理 PA3生成的 TAC。
+在线的 TAC 虚拟机，可以在线执行编译原理 PA3 生成的 TAC。
 
 - [GitHub](https://github.com/jiegec/online_tac_vm)
 - 相关技术：Rust，Yew
@@ -476,7 +476,7 @@ Decaf 语言的 LSP Server 实现，支持 Hover 、 Symbol 等功能，配合 [
 
 ### online_decaf
 
-在线的 Decaf 编译器，可以在线运行编译原理的 PA 。
+在线的 Decaf 编译器，可以在线运行编译原理的 PA。
 
 - [GitHub](https://github.com/jiegec/online_decaf)
 - 相关技术：Rust，Yew
@@ -717,7 +717,7 @@ Decaf 语言的 LSP Server 实现，支持 Hover 、 Symbol 等功能，配合 [
 
 ### YXPortal
 
-一个简单的 OAuth 客户端+服务端，用于实验系统的用户认证。
+一个简单的 OAuth 客户端 + 服务端，用于实验系统的用户认证。
 
 - 相关技术：Go、Elm
 - 投入时间：不多
