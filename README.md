@@ -48,7 +48,7 @@
 | 2020.06 | ISC20 SCC    | [Elmerfem](#Elmerfem)                                                                                                                                                                                                                                                                                        |
 | 2020.11 | SC20 VSCC    | [MemXCT](#MemXCT)，[miniVite](#miniVite)                                                                                                                                                                                                                                                                      |
 | 2021.05 | ASC20-21 SCC | [PRESTO](#PRESTO)，[HPL](#HPL)                                                                                                                                                                                                                                                                                |
-| 2021.07 | ISC21 SCC    | [Coding Challenge](#Coding Challenge)，[HPL](#HPL)                                                                                                                                                                                                                                                            |
+| 2021.07 | ISC21 SCC    | [Coding Challenge](#CodingChallenge)，[HPL](#HPL)                                                                                                                                                                                                                                                            |
 
 ### 个人参与或编写的项目
 
