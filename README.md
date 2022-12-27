@@ -40,12 +40,15 @@
 
 ### 参加比赛的项目
 
-| 时间      | 比赛         | 项目                                                                                                                                                                                                                                                                                                           |
-| ------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2018.09 | THUCTF2018 | [ctf-writeups](#ctf-writeups)                                                                                                                                                                                                                                                                                |
-| 2019.07 | 龙芯杯        | [GuGuMIPS](#gugumips)，[GuGuMIPSSoC](#gugumipssoc)，[linux-gugumips](#linux-gugumips)，[u-boot-gugumips](#u-boot-gugumips)，[ucore-gugumips](#ucore-gugumips)，[usbh](#usbh)，[nontrivial-mips](#nontrivial-mips)，[linux-nontrivial-mips](#linux-nontrivial-mips)，[u-boot-nontrivial-mips](#u-boot-nontrivialmips) |
-| 2020.08 | 华为杯        | [trivialcompiler](#trivialcompiler)                                                                                                                                                                                                                                                                          |
-| 2020.11 | SC20 VSCC  | [MemXCT](#MemXCT)，[miniVite](#miniVite)                                                                                                                                                                                                                                                                      |
+| 时间      | 比赛           | 项目                                                                                                                                                                                                                                                                                                           |
+| ------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2018.09 | THUCTF2018   | [ctf-writeups](#ctf-writeups)                                                                                                                                                                                                                                                                                |
+| 2019.07 | 龙芯杯          | [GuGuMIPS](#gugumips)，[GuGuMIPSSoC](#gugumipssoc)，[linux-gugumips](#linux-gugumips)，[u-boot-gugumips](#u-boot-gugumips)，[ucore-gugumips](#ucore-gugumips)，[usbh](#usbh)，[nontrivial-mips](#nontrivial-mips)，[linux-nontrivial-mips](#linux-nontrivial-mips)，[u-boot-nontrivial-mips](#u-boot-nontrivialmips) |
+| 2020.08 | 华为杯          | [trivialcompiler](#trivialcompiler)                                                                                                                                                                                                                                                                          |
+| 2020.06 | ISC20 SCC    | [Elmerfem](#Elmerfem)                                                                                                                                                                                                                                                                                        |
+| 2020.11 | SC20 VSCC    | [MemXCT](#MemXCT)，[miniVite](#miniVite)                                                                                                                                                                                                                                                                      |
+| 2021.05 | ASC20-21 SCC | [PRESTO](#PRESTO)，[HPL](#HPL)                                                                                                                                                                                                                                                                                |
+| 2021.07 | ISC21 SCC    | [Coding Challenge](#Coding Challenge)，[HPL](#HPL)                                                                                                                                                                                                                                                            |
 
 ### 个人参与或编写的项目
 
@@ -65,7 +68,7 @@
 | 2020.05 | usbip 用 Rust 实现的 USB/IP 服务端                    | [usbip](#usbip)                                   |
 | 2020.06 | cluster-job-monitor 集群任务状态监测                   | [cluster-job-monitor](#cluster-job-monitor)       |
 | 2020.07 | netconf-rs RFC2641 NETCONF 客户端库                | [netconf-rs](#netconf-rs)                         |
-| 2020.08 | TanLabs 网络原理实验平台                               | [TanLabs](#TanLabs)                               |
+| 2020.08 | TANLabs 网络原理实验平台                               | [TANLabs](#TANLabs)                               |
 | 2020.09 | aws-static-website-cdk AWS CDK 部署静态网站          | [aws-static-website-cdk](#aws-static-website-cdk) |
 | 2020.11 | machine-tester 集群机器测试工具                        | [machine-tester](#machine-tester)                 |
 | 2020.12 | HT42B534 USB to UART 开源 PCB 设计                 | [HT42B534USB2UART](#HT42B534USB2UART)             |
@@ -507,7 +510,6 @@ Decaf 语言的 LSP Server 实现，支持 Hover、Symbol 等功能，配合 [de
 - 投入时间：不多
 - 喜爱：10
 - 收获：10
-
 
 ### decaf-rs-pa
 
