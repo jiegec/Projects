@@ -58,32 +58,42 @@
 | 2017.10 | clone-learn-tsinghua 清华网络学堂的备份工具               | [clone-learn-tsinghua](#clone-learn-tsinghua)     |
 | 2018.02 | cs140e Stanford CS140e 实验课程                    | [CS140e](#cs140e)                                 |
 | 2019.02 | rustup-mirror Rustup 镜像工具                      | [rustup-mirror](#rustup-mirror)                   |
+| 2019.02 | thuip 从 BGP 信息中导出清华 IP 地址段                   | [thuip](#thuip)             |
+| 2019.02 | tantivy-jieba 把结巴分词用于 Tantivy                   | [tantivy-jieba](#tantivy-jieba)             |
 | 2019.07 | classroom-helper GitHub Classroom 辅助 TUI       | [classroom-helper](#classroom-helper)             |
 | 2019.09 | verilog-format Verilog/SystemVerilog 格式化       | [verilog-format](#verilog-format)                 |
 | 2019.10 | decode-bcbp 在线解码机票 BCBP 信息                     | [decode-bcbp](#decode-bcbp)                       |
 | 2020.02 | JieLabs 数字逻辑实验平台                               | [JieLabs](#JieLabs)                               |
 | 2020.02 | verilog-lang 递归下降的 Verilog Parser              | [verilog-lang](#verilog-lang)                     |
 | 2020.02 | maze-routing Rust 语言实现的 Grid Router 算法         | [maze-routing](#maze-routing)                     |
-| 2020.05 | Webhookd 对 Gitlab/GitHub 的 webhook 进行响应        | [webhookd](#webhookd)                             |
+| 2020.05 | webhookd 对 Gitlab/GitHub 的 webhook 进行响应        | [webhookd](#webhookd)                             |
 | 2020.05 | usbip 用 Rust 实现的 USB/IP 服务端                    | [usbip](#usbip)                                   |
 | 2020.06 | cluster-job-monitor 集群任务状态监测                   | [cluster-job-monitor](#cluster-job-monitor)       |
 | 2020.07 | netconf-rs RFC2641 NETCONF 客户端库                | [netconf-rs](#netconf-rs)                         |
 | 2020.08 | TANLabs 网络原理实验平台                               | [TANLabs](#TANLabs)                               |
 | 2020.09 | aws-static-website-cdk AWS CDK 部署静态网站          | [aws-static-website-cdk](#aws-static-website-cdk) |
+| 2020.10 | ddns 跨平台 DDNS 客户端                   | [ddns](#ddns)             |
 | 2020.11 | machine-tester 集群机器测试工具                        | [machine-tester](#machine-tester)                 |
 | 2020.12 | HT42B534 USB to UART 开源 PCB 设计                 | [HT42B534USB2UART](#HT42B534USB2UART)             |
 | 2021.01 | EspinalLib 使用 SpinalHDL 实现的 HDL 模块             | [EspinalLib](#espinnallib)                        |
 | 2021.02 | daccountd 分布式强一致 LDAP 服务器                      | [daccountd](#daccountd)                           |
 | 2021.02 | minipxe 用于 PXE 的迷你 DHCP+TFTP 服务器               | [minipxe](#minpxe)                                |
+| 2021.02 | wechat-dump 从 iOS 备份中导出微信聊天记录                   | [wechat-dump](#wechat-dump)             |
 | 2021.03 | WM8731PMOD 音频 PMOD 扩展板                         | [WM8731PMOD](#WM8731PMOD)                         |
 | 2021.03 | YXPortal 实验用户管理系统                              | [YXPortal](#YXPortal)                             |
 | 2021.07 | cpu-micro-benchmarks 针对 CPU 架构的微性能测试           | [cpu-micro-benchmarks](#cpu-micro-benchmarks)     |
 | 2021.09 | fpu-wrappers 浮点计算单元封装                          | [fpu-wrappers](#fpu-wrappers)                     |
 | 2021.09 | feishu-backup 飞书文档备份导出工具                       | [feishu-backup](#feishu-backup)                   |
 | 2021.09 | rocket-chip-vcu128 在 VCU128 开发板上运行 Rocket Chip | [rocket-chip-vcu128](#rocket-chip-vcu128)         |
+| 2021.09 | dcst-facts 记录清华大学计算机系客观数据 | [dcst-facts](#dcst-facts)         |
 | 2021.10 | gitlab-cloner GitLab 项目批量克隆工具                  | [gitlab-cloner](#gitlab-cloner)                   |
 | 2021.12 | jtag-remote-server 远程 JTAG 调试工具                | [jtag-remote-server](#jtag-remote-server)         |
+| 2022.01 | video2srt 使用云服务生成视频的字幕                   | [video2srt](#video2srt)             |
+| 2022.01 | rvv-kernels 使用 RISC-V 向量扩展实现算法                   | [rvv-kernels](#rvv-kernels)             |
+| 2022.07 | ifupdown-to-systemd-networkd 将 ifupdown 配置转换为 systemd-networkd 配置                   | [ifupdown-to-systemd-networkd](#ifupdown-to-systemd-networkd)             |
 | 2022.09 | kicad-symbol-gen KiCad 符号生成器                   | [kicad-symbol-gen](#kicad-symbol-gen)             |
+| 2023.02 | china_bean_importers 将支付记录导入到 beancount                   | [china_bean_importers](#china_bean_importers)             |
+| 2023.04 | chisel-memory-lower 转换 chisel 内存为原语                   | [chisel-memory-lower](#chisel-memory-lower)             |
 
 ## 计算机系课程及相关作业
 
