@@ -1,3 +1,7 @@
+---
+date: 1970-01-01
+---
+
 # jiegec 的项目
 
 受 [wangrunji0408/UndergraduateProjects](https://github.com/wangrunji0408/UndergraduateProjects) 启发，我也来总结一下。
