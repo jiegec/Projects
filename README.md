@@ -711,7 +711,7 @@ Decaf 语言的 LSP Server 实现，支持 Hover、Symbol 等功能，配合 [de
 
 运行一个 USB/IP 服务，可以模拟设备或者转发到 libusb。
 
-- [GitHub](https://github.coggm/jiegec/usbip)
+- [GitHub](https://github.com/jiegec/usbip)
 - 相关技术：Rust
 - 投入时间：不多
 - 喜爱：10
