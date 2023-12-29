@@ -79,6 +79,7 @@ date: 1970-01-01
 | 2020.10 | ddns 跨平台 DDNS 客户端                                                   | [ddns](#ddns)                                                                   |
 | 2020.11 | machine-tester 集群机器测试工具                                           | [machine-tester](#machine-tester)                                               |
 | 2020.12 | HT42B534 USB to UART 开源 PCB 设计                                        | [HT42B534USB2UART](#HT42B534USB2UART)                                           |
+| 2020.12 | jieplag 代码查重软件                                                      | [jieplag](#jieplag)                                                             |
 | 2021.01 | EspinalLib 使用 SpinalHDL 实现的 HDL 模块                                 | [EspinalLib](#espinnallib)                                                      |
 | 2021.02 | daccountd 分布式强一致 LDAP 服务器                                        | [daccountd](#daccountd)                                                         |
 | 2021.02 | minipxe 用于 PXE 的迷你 DHCP+TFTP 服务器                                  | [minipxe](#minpxe)                                                              |
@@ -101,7 +102,11 @@ date: 1970-01-01
 | 2023.04 | kb 个人知识库                                                             | [kb](#kb)                                                                       |
 | 2023.08 | la-inst 研究 LoongArch 指令的工具                                         | [la-inst](#la-inst)                                                             |
 | 2023.10 | fatbinary 操作 CUDA fatbinary 文件格式的 Rust 库                          | [fatbinary](#fatbinary)                                                         |
+| 2023.11 | data-link-protocols 网络原理数据链路层协议可视化                          | [data-link-protocols](#data-link-protocols)                                     |
 | 2023.12 | unofficial-loongarch-intrinsics-guide 非官方 LoongArch Intrinsics 文档    | [unofficial-loongarch-intrinsics-guide](#unofficial-loongarch-intrinsics-guide) |
+| 2023.12 | loongarch-csr 非官方 LoongArch CSR/IOCSR 文档                             | [loongarch-csr](#loongarch-csr)                                                 |
+| 2023.12 | buildit AOSC 构建自动化                                                   | [buildit](#buildit)                                                             |
+| 2023.12 | la_ow_ptrace 基于 PTrace 的在 LoongArch 新世界上运行旧世界程序的方案      | [la_ow_ptrace](#la_ow_ptrace)                                                   |
 
 ## 计算机系课程及相关作业
 
