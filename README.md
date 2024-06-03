@@ -107,6 +107,7 @@ date: 1970-01-01
 | 2023.12 | loongarch-csr 非官方 LoongArch CSR/IOCSR 文档                             | [loongarch-csr](#loongarch-csr)                                                 |
 | 2023.12 | buildit AOSC 构建自动化                                                   | [buildit](#buildit)                                                             |
 | 2023.12 | la_ow_ptrace 基于 PTrace 的在 LoongArch 新世界上运行旧世界程序的方案      | [la_ow_ptrace](#la_ow_ptrace)                                                   |
+| 2024.02 | cold 玩具 ELF 链接器                                                      | [cold](#cold)                                                                   |
 
 ## 计算机系课程及相关作业
 
