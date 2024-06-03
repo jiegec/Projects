@@ -100,6 +100,7 @@ date: 1970-01-01
 | 2023.02 | china_bean_importers 将支付记录导入到 beancount                           | [china_bean_importers](#china_bean_importers)                                   |
 | 2023.04 | chisel-memory-lower 转换 chisel 内存为原语                                | [chisel-memory-lower](#chisel-memory-lower)                                     |
 | 2023.04 | kb 个人知识库                                                             | [kb](#kb)                                                                       |
+| 2023.06 | dntt 批量导出交换机的配置文件                                             | [dntt](#dntt)                                                                   |
 | 2023.08 | la-inst 研究 LoongArch 指令的工具                                         | [la-inst](#la-inst)                                                             |
 | 2023.10 | fatbinary 操作 CUDA fatbinary 文件格式的 Rust 库                          | [fatbinary](#fatbinary)                                                         |
 | 2023.11 | data-link-protocols 网络原理数据链路层协议可视化                          | [data-link-protocols](#data-link-protocols)                                     |
