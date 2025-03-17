@@ -87,6 +87,7 @@ date: 1970-01-01
 | 2021.03 | WM8731PMOD 音频 PMOD 扩展板                                               | [WM8731PMOD](#WM8731PMOD)                                                       |
 | 2021.03 | YXPortal 实验用户管理系统                                                 | [YXPortal](#YXPortal)                                                           |
 | 2021.07 | cpu-micro-benchmarks 针对 CPU 架构的微性能测试                            | [cpu-micro-benchmarks](#cpu-micro-benchmarks)                                   |
+| 2021.07 | floating 浮点格式解析和转换小工具                                         | [floating](#floating)                                                           |
 | 2021.09 | fpu-wrappers 浮点计算单元封装                                             | [fpu-wrappers](#fpu-wrappers)                                                   |
 | 2021.09 | feishu-backup 飞书文档备份导出工具                                        | [feishu-backup](#feishu-backup)                                                 |
 | 2021.09 | rocket-chip-vcu128 在 VCU128 开发板上运行 Rocket Chip                     | [rocket-chip-vcu128](#rocket-chip-vcu128)                                       |
@@ -109,6 +110,11 @@ date: 1970-01-01
 | 2023.12 | buildit AOSC 构建自动化                                                   | [buildit](#buildit)                                                             |
 | 2023.12 | la_ow_ptrace 基于 PTrace 的在 LoongArch 新世界上运行旧世界程序的方案      | [la_ow_ptrace](#la_ow_ptrace)                                                   |
 | 2024.02 | cold 玩具 ELF 链接器                                                      | [cold](#cold)                                                                   |
+| 2024.04 | ps2 使用 Chisel 开发的 PS/2 控制器                                        | [ps2](#ps2)                                                                     |
+| 2024.07 | apple-pmu 导出苹果芯片的 PMU 计数器定义                                   | [apple-pmu](#apple-pmu)                                                         |
+| 2024.08 | cpu CPU 微架构图示                                                        | [cpu](#cpu)                                                                     |
+| 2024.09 | barcode EAN-13 条形码在线生成器                                           | [barcode](#barcode)                                                             |
+| 2024.12 | SPECCPU2017Harmony 把 SPEC CPU 2017 移植到 OpenHarmony/HarmonyOS NEXT     | [SPECCPU2017Harmony](#SPECCPU2017Harmony)                                       |
 
 ## 计算机系课程及相关作业
 
