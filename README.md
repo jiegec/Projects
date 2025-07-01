@@ -115,6 +115,8 @@ date: 1970-01-01
 | 2024.08 | cpu CPU 微架构图示                                                        | [cpu](#cpu)                                                                     |
 | 2024.09 | barcode EAN-13 条形码在线生成器                                           | [barcode](#barcode)                                                             |
 | 2024.12 | SPECCPU2017Harmony 把 SPEC CPU 2017 移植到 OpenHarmony/HarmonyOS NEXT     | [SPECCPU2017Harmony](#SPECCPU2017Harmony)                                       |
+| 2025.04 | cbp-experiments 在真实二进制上进行分支预测器实验                          | [cbp-experiments](#cbp-experiments)                                             |
+| 2025.06 | Termony 鸿蒙电脑上的 Termux                                               | [Termony](#Termony)                                                             |
 
 ## 计算机系课程及相关作业
 
