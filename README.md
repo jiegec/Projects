@@ -61,12 +61,14 @@ date: 1970-01-01
 | 2016.03 | MacGesture macOS 上的手势软件                                             | [MacGesture](#macgesture)                                                       |
 | 2017.10 | clone-learn-tsinghua 清华网络学堂的备份工具                               | [clone-learn-tsinghua](#clone-learn-tsinghua)                                   |
 | 2018.02 | cs140e Stanford CS140e 实验课程                                           | [CS140e](#cs140e)                                                               |
+| 2018.04 | screenmux 多客户端远程桌面管理                                            | [screenmux](#screenmux)                                                         |
 | 2019.02 | rustup-mirror Rustup 镜像工具                                             | [rustup-mirror](#rustup-mirror)                                                 |
 | 2019.02 | thuip 从 BGP 信息中导出清华 IP 地址段                                     | [thuip](#thuip)                                                                 |
 | 2019.02 | tantivy-jieba 把结巴分词用于 Tantivy                                      | [tantivy-jieba](#tantivy-jieba)                                                 |
 | 2019.07 | classroom-helper GitHub Classroom 辅助 TUI                                | [classroom-helper](#classroom-helper)                                           |
 | 2019.09 | verilog-format Verilog/SystemVerilog 格式化                               | [verilog-format](#verilog-format)                                               |
 | 2019.10 | decode-bcbp 在线解码机票 BCBP 信息                                        | [decode-bcbp](#decode-bcbp)                                                     |
+| 2019.11 | libwavelib-sys Rust 的 libwavelib binding                                 | [libwavelib-sys](#libwavelib-sys)                                               |
 | 2020.02 | JieLabs 数字逻辑实验平台                                                  | [JieLabs](#JieLabs)                                                             |
 | 2020.02 | verilog-lang 递归下降的 Verilog Parser                                    | [verilog-lang](#verilog-lang)                                                   |
 | 2020.02 | maze-routing Rust 语言实现的 Grid Router 算法                             | [maze-routing](#maze-routing)                                                   |
@@ -92,6 +94,7 @@ date: 1970-01-01
 | 2021.09 | feishu-backup 飞书文档备份导出工具                                        | [feishu-backup](#feishu-backup)                                                 |
 | 2021.09 | rocket-chip-vcu128 在 VCU128 开发板上运行 Rocket Chip                     | [rocket-chip-vcu128](#rocket-chip-vcu128)                                       |
 | 2021.09 | dcst-facts 记录清华大学计算机系客观数据                                   | [dcst-facts](#dcst-facts)                                                       |
+| 2021.09 | zotero-dump-markdown 把 Zotero 的笔记导出为 Markdown 格式                 | [zotero-dump-markdown](#zotero-dump-markdown)                                   |
 | 2021.10 | gitlab-cloner GitLab 项目批量克隆工具                                     | [gitlab-cloner](#gitlab-cloner)                                                 |
 | 2021.12 | jtag-remote-server 远程 JTAG 调试工具                                     | [jtag-remote-server](#jtag-remote-server)                                       |
 | 2022.01 | video2srt 使用云服务生成视频的字幕                                        | [video2srt](#video2srt)                                                         |
@@ -101,6 +104,7 @@ date: 1970-01-01
 | 2023.02 | china_bean_importers 将支付记录导入到 beancount                           | [china_bean_importers](#china_bean_importers)                                   |
 | 2023.04 | chisel-memory-lower 转换 chisel 内存为原语                                | [chisel-memory-lower](#chisel-memory-lower)                                     |
 | 2023.04 | kb 个人知识库                                                             | [kb](#kb)                                                                       |
+| 2023.04 | PMOD-SPI-NOR-FLASH 扩展 SPI NOR FLASH 的 PMOD 模块                        | [PMOD-SPI-NOR-FLASH](#PMOD-SPI-NOR-FLASH)                                       |
 | 2023.06 | dntt 批量导出交换机的配置文件                                             | [dntt](#dntt)                                                                   |
 | 2023.07 | markdown-to-zhihu-article 上传 Markdown 到知乎文章                        | [markdown-to-zhihu-article](#markdown-to-zhihu-article)                         |
 | 2023.08 | la-inst 研究 LoongArch 指令的工具                                         | [la-inst](#la-inst)                                                             |
@@ -115,10 +119,13 @@ date: 1970-01-01
 | 2024.07 | apple-pmu 导出苹果芯片的 PMU 计数器定义                                   | [apple-pmu](#apple-pmu)                                                         |
 | 2024.08 | cpu CPU 微架构图示                                                        | [cpu](#cpu)                                                                     |
 | 2024.09 | barcode EAN-13 条形码在线生成器                                           | [barcode](#barcode)                                                             |
+| 2024.11 | NetworkToolsHarmony 鸿蒙上的基础网络工具                                  | [NetworkToolsHarmony](#NetworkToolsHarmony)                                     |
 | 2024.12 | SPECCPU2017Harmony 把 SPEC CPU 2017 移植到 OpenHarmony/HarmonyOS NEXT     | [SPECCPU2017Harmony](#SPECCPU2017Harmony)                                       |
 | 2025.04 | cbp-experiments 在真实二进制上进行分支预测器实验                          | [cbp-experiments](#cbp-experiments)                                             |
 | 2025.06 | Termony 鸿蒙电脑上的 Termux                                               | [Termony](#Termony)                                                             |
 | 2025.06 | ohos-updatebin-unpacker 对 OpenHarmonyOS 的 update.bin 进行解包           | [ohos-updatebin-unpacker](#ohos-updatebin-unpacker)                             |
+| 2025.09 | simple-frame-rs 解析 SFrame(Simple Frame) 格式的 Rust 库                  | [simple-frame-rs](#simple-frame-rs)                                             |
+| 2025.12 | waveform-mcp 读取和查询波形文件的 MCP 服务器                              | [waveform-mcp](#waveform-mcp)                                                   |
 
 ## 计算机系课程及相关作业
 
