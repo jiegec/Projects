@@ -125,6 +125,7 @@ date: 1970-01-01
 | 2025.06 | Termony 鸿蒙电脑上的 Termux                                               | [Termony](#Termony)                                                             |
 | 2025.06 | ohos-updatebin-unpacker 对 OpenHarmonyOS 的 update.bin 进行解包           | [ohos-updatebin-unpacker](#ohos-updatebin-unpacker)                             |
 | 2025.09 | simple-frame-rs 解析 SFrame(Simple Frame) 格式的 Rust 库                  | [simple-frame-rs](#simple-frame-rs)                                             |
+| 2025.12 | devdocs-mcp-server 查询 DevDocs 上各种文档的 MCP 服务器                              | [devdocs-mcp-server](#devdocs-mcp-server)                                                   |
 | 2025.12 | waveform-mcp 读取和查询波形文件的 MCP 服务器                              | [waveform-mcp](#waveform-mcp)                                                   |
 
 ## 计算机系课程及相关作业
