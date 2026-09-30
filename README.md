@@ -27,14 +27,14 @@ date: 1970-01-01
 | 2019.04 | 存储技术基础         | [KVEngine](#kvengine)，[HERMES](#hermes)                                                                                                                                 |
 | 2019.05 | 多媒体技术基础       | [RBSplit](#rbsplit)，[MultimediaCompression](#multimediacompression)，[MultimediaSound](#multimediasound)，[MultimediaAnalysis](#multimediaanalysis)                       |
 | 2019.06 | 数字逻辑设计         | [NaiveRouter](#naiverouter)，[router](#router)，[router_mb](#router_mb)，[router_ksz8795](#router_ksz8795)，[rgmiimux](#rgmiimux)                                           |
-| 2019.06 | 计算机网络原理       | [Router-Lab](#Router-Lab)                                                                                                                                               |
+| 2019.06 | 计算机网络原理       | [Router-Lab](#router-lab)                                                                                                                                               |
 | 2019.07 | 专业实践             | [GuGuMIPS](#gugumips)，[GuGuMIPSSoC](#gugumipssoc)，[linux-gugumips](#linux-gugumips)，[u-boot-gugumips](#u-boot-gugumips)，[ucore-gugumips](#ucore-gugumips)，[usbh](#usbh) |
 | 2019.08 | Java 程序设计与训练  | [JabaHomework](#jabahomework)，[NewsApp](#newsapp)                                                                                                                       |
 | 2019.08 | 汇编语言程序设计     | [asm-homework](#asm-homework)                                                                                                                                           |
 | 2019.09 | 计算机网络安全技术   | [sdes-visualization](#sdes-visualization)                                                                                                                               |
 | 2019.10 | 计算机组成原理       | [booth-visualization](#booth-visualization)，[integer-divide-visualization](#integer-divide-visualization)，[rocket2thinpad](#rocket2thinpad)                             |
 | 2019.10 | 编译原理             | [online_tac_vm](#online_tac_vm)，[online_decaf](#online_decaf)，[gll-pg](#gll-pg)，[decaf-lsp](#decaf-lsp)，[decaf-rs-pa](#decaf-rs-pa)                                     |
-| 2020.01 | 信号处理原理         | [SignalProcessing](#SignalProcessing)                                                                                                                                   |
+| 2020.01 | 信号处理原理         | [SignalProcessing](#signalprocessing)                                                                                                                                   |
 | 2020.03 | 软件分析与验证       | [dpll](#dpll)                                                                                                                                                           |
 | 2020.04 | 计算机系统结构       | [cache](#cache)，[tomasulo](#tomasulo)                                                                                                                                   |
 | 2020.04 | 现代密码学           | [crypto](#crypto)，[miller-rabin](#miller-rabin)                                                                                                                         |
@@ -49,10 +49,10 @@ date: 1970-01-01
 | 2018.09 | THUCTF2018   | [ctf-writeups](#ctf-writeups)                                                                                                                                                                                                                                                                                |
 | 2019.07 | 龙芯杯       | [GuGuMIPS](#gugumips)，[GuGuMIPSSoC](#gugumipssoc)，[linux-gugumips](#linux-gugumips)，[u-boot-gugumips](#u-boot-gugumips)，[ucore-gugumips](#ucore-gugumips)，[usbh](#usbh)，[nontrivial-mips](#nontrivial-mips)，[linux-nontrivial-mips](#linux-nontrivial-mips)，[u-boot-nontrivial-mips](#u-boot-nontrivialmips) |
 | 2020.08 | 华为杯       | [trivialcompiler](#trivialcompiler)                                                                                                                                                                                                                                                                          |
-| 2020.06 | ISC20 SCC    | [Elmerfem](#Elmerfem)                                                                                                                                                                                                                                                                                        |
-| 2020.11 | SC20 VSCC    | [MemXCT](#MemXCT)，[miniVite](#miniVite)                                                                                                                                                                                                                                                                      |
-| 2021.05 | ASC20-21 SCC | [PRESTO](#PRESTO)，[HPL](#HPL)                                                                                                                                                                                                                                                                                |
-| 2021.07 | ISC21 SCC    | [Coding Challenge](#CodingChallenge)，[HPL](#HPL)                                                                                                                                                                                                                                                             |
+| 2020.06 | ISC20 SCC    | [Elmerfem](#elmerfem)                                                                                                                                                                                                                                                                                        |
+| 2020.11 | SC20 VSCC    | [MemXCT](#memxct)，[miniVite](#minivite)                                                                                                                                                                                                                                                                      |
+| 2021.05 | ASC20-21 SCC | [PRESTO](#presto)，[HPL](#hpl)                                                                                                                                                                                                                                                                                |
+| 2021.07 | ISC21 SCC    | [Coding Challenge](#codingchallenge)，[HPL](#hpl)                                                                                                                                                                                                                                                             |
 
 ### 个人参与或编写的项目
 
@@ -69,25 +69,25 @@ date: 1970-01-01
 | 2019.09 | verilog-format Verilog/SystemVerilog 格式化                               | [verilog-format](#verilog-format)                                               |
 | 2019.10 | decode-bcbp 在线解码机票 BCBP 信息                                        | [decode-bcbp](#decode-bcbp)                                                     |
 | 2019.11 | libwavelib-sys Rust 的 libwavelib binding                                 | [libwavelib-sys](#libwavelib-sys)                                               |
-| 2020.02 | JieLabs 数字逻辑实验平台                                                  | [JieLabs](#JieLabs)                                                             |
+| 2020.02 | JieLabs 数字逻辑实验平台                                                  | [JieLabs](#jielabs)                                                             |
 | 2020.02 | verilog-lang 递归下降的 Verilog Parser                                    | [verilog-lang](#verilog-lang)                                                   |
 | 2020.02 | maze-routing Rust 语言实现的 Grid Router 算法                             | [maze-routing](#maze-routing)                                                   |
 | 2020.05 | webhookd 对 Gitlab/GitHub 的 webhook 进行响应                             | [webhookd](#webhookd)                                                           |
 | 2020.05 | usbip 用 Rust 实现的 USB/IP 服务端                                        | [usbip](#usbip)                                                                 |
 | 2020.06 | cluster-job-monitor 集群任务状态监测                                      | [cluster-job-monitor](#cluster-job-monitor)                                     |
 | 2020.07 | netconf-rs RFC2641 NETCONF 客户端库                                       | [netconf-rs](#netconf-rs)                                                       |
-| 2020.08 | TANLabs 网络原理实验平台                                                  | [TANLabs](#TANLabs)                                                             |
+| 2020.08 | TANLabs 网络原理实验平台                                                  | [TANLabs](#tanlabs)                                                             |
 | 2020.09 | aws-static-website-cdk AWS CDK 部署静态网站                               | [aws-static-website-cdk](#aws-static-website-cdk)                               |
 | 2020.10 | ddns 跨平台 DDNS 客户端                                                   | [ddns](#ddns)                                                                   |
 | 2020.11 | machine-tester 集群机器测试工具                                           | [machine-tester](#machine-tester)                                               |
-| 2020.12 | HT42B534 USB to UART 开源 PCB 设计                                        | [HT42B534USB2UART](#HT42B534USB2UART)                                           |
+| 2020.12 | HT42B534 USB to UART 开源 PCB 设计                                        | [HT42B534USB2UART](#ht42b534usb2uart)                                           |
 | 2020.12 | jieplag 代码查重软件                                                      | [jieplag](#jieplag)                                                             |
 | 2021.01 | EspinalLib 使用 SpinalHDL 实现的 HDL 模块                                 | [EspinalLib](#espinnallib)                                                      |
 | 2021.02 | daccountd 分布式强一致 LDAP 服务器                                        | [daccountd](#daccountd)                                                         |
 | 2021.02 | minipxe 用于 PXE 的迷你 DHCP+TFTP 服务器                                  | [minipxe](#minpxe)                                                              |
 | 2021.02 | wechat-dump 从 iOS 备份中导出微信聊天记录                                 | [wechat-dump](#wechat-dump)                                                     |
-| 2021.03 | WM8731PMOD 音频 PMOD 扩展板                                               | [WM8731PMOD](#WM8731PMOD)                                                       |
-| 2021.03 | YXPortal 实验用户管理系统                                                 | [YXPortal](#YXPortal)                                                           |
+| 2021.03 | WM8731PMOD 音频 PMOD 扩展板                                               | [WM8731PMOD](#wm8731pmod)                                                       |
+| 2021.03 | YXPortal 实验用户管理系统                                                 | [YXPortal](#yxportal)                                                           |
 | 2021.07 | cpu-micro-benchmarks 针对 CPU 架构的微性能测试                            | [cpu-micro-benchmarks](#cpu-micro-benchmarks)                                   |
 | 2021.07 | floating 浮点格式解析和转换小工具                                         | [floating](#floating)                                                           |
 | 2021.09 | fpu-wrappers 浮点计算单元封装                                             | [fpu-wrappers](#fpu-wrappers)                                                   |
@@ -104,7 +104,7 @@ date: 1970-01-01
 | 2023.02 | china_bean_importers 将支付记录导入到 beancount                           | [china_bean_importers](#china_bean_importers)                                   |
 | 2023.04 | chisel-memory-lower 转换 chisel 内存为原语                                | [chisel-memory-lower](#chisel-memory-lower)                                     |
 | 2023.04 | kb 个人知识库                                                             | [kb](#kb)                                                                       |
-| 2023.04 | PMOD-SPI-NOR-FLASH 扩展 SPI NOR FLASH 的 PMOD 模块                        | [PMOD-SPI-NOR-FLASH](#PMOD-SPI-NOR-FLASH)                                       |
+| 2023.04 | PMOD-SPI-NOR-FLASH 扩展 SPI NOR FLASH 的 PMOD 模块                        | [PMOD-SPI-NOR-FLASH](#pmod-spi-nor-flash)                                       |
 | 2023.06 | dntt 批量导出交换机的配置文件                                             | [dntt](#dntt)                                                                   |
 | 2023.07 | markdown-to-zhihu-article 上传 Markdown 到知乎文章                        | [markdown-to-zhihu-article](#markdown-to-zhihu-article)                         |
 | 2023.08 | la-inst 研究 LoongArch 指令的工具                                         | [la-inst](#la-inst)                                                             |
@@ -119,10 +119,10 @@ date: 1970-01-01
 | 2024.07 | apple-pmu 导出苹果芯片的 PMU 计数器定义                                   | [apple-pmu](#apple-pmu)                                                         |
 | 2024.08 | cpu CPU 微架构图示                                                        | [cpu](#cpu)                                                                     |
 | 2024.09 | barcode EAN-13 条形码在线生成器                                           | [barcode](#barcode)                                                             |
-| 2024.11 | NetworkToolsHarmony 鸿蒙上的基础网络工具                                  | [NetworkToolsHarmony](#NetworkToolsHarmony)                                     |
-| 2024.12 | SPECCPU2017Harmony 把 SPEC CPU 2017 移植到 OpenHarmony/HarmonyOS NEXT     | [SPECCPU2017Harmony](#SPECCPU2017Harmony)                                       |
+| 2024.11 | NetworkToolsHarmony 鸿蒙上的基础网络工具                                  | [NetworkToolsHarmony](#networktoolsharmony)                                     |
+| 2024.12 | SPECCPU2017Harmony 把 SPEC CPU 2017 移植到 OpenHarmony/HarmonyOS NEXT     | [SPECCPU2017Harmony](#speccpu2017harmony)                                       |
 | 2025.04 | cbp-experiments 在真实二进制上进行分支预测器实验                          | [cbp-experiments](#cbp-experiments)                                             |
-| 2025.06 | Termony 鸿蒙电脑上的 Termux                                               | [Termony](#Termony)                                                             |
+| 2025.06 | Termony 鸿蒙电脑上的 Termux                                               | [Termony](#termony)                                                             |
 | 2025.06 | ohos-updatebin-unpacker 对 OpenHarmonyOS 的 update.bin 进行解包           | [ohos-updatebin-unpacker](#ohos-updatebin-unpacker)                             |
 | 2025.09 | simple-frame-rs 解析 SFrame(Simple Frame) 格式的 Rust 库                  | [simple-frame-rs](#simple-frame-rs)                                             |
 | 2025.12 | devdocs-mcp-server 查询 DevDocs 上各种文档的 MCP 服务器                              | [devdocs-mcp-server](#devdocs-mcp-server)                                                   |
@@ -654,6 +654,52 @@ Decaf 语言的 LSP Server 实现，支持 Hover、Symbol 等功能，配合 [de
 - 喜爱：8
 - 收获：8
 
+## 参加比赛的项目
+
+### ctf-writeups
+
+TODO
+
+### nontrivial-mips
+
+TODO
+
+### linux-nontrivial-mips
+
+TODO
+
+### u-boot-nontrivialmips
+
+TODO
+
+### trivialcompiler
+
+TODO
+
+### Elmerfem
+
+TODO
+
+### MemXCT
+
+TODO
+
+### miniVite
+
+TODO
+
+### PRESTO
+
+TODO
+
+### HPL
+
+TODO
+
+### CodingChallenge
+
+TODO
+
 ## 个人参与或编写的项目
 
 ### MacGesture
@@ -793,5 +839,225 @@ Decaf 语言的 LSP Server 实现，支持 Hover、Symbol 等功能，配合 [de
 - 投入时间：不多
 - 喜爱：10
 - 收获：8
+
+### screenmux
+
+TODO
+
+### thuip
+
+TODO
+
+### tantivy-jieba
+
+TODO
+
+### decode-bcbp
+
+TODO
+
+### libwavelib-sys
+
+TODO
+
+### verilog-lang
+
+TODO
+
+### maze-routing
+
+TODO
+
+### cluster-job-monitor
+
+TODO
+
+### netconf-rs
+
+TODO
+
+### aws-static-website-cdk
+
+TODO
+
+### ddns
+
+TODO
+
+### machine-tester
+
+TODO
+
+### jieplag
+
+TODO
+
+### espinnallib
+
+TODO
+
+### minpxe
+
+TODO
+
+### wechat-dump
+
+TODO
+
+### cpu-micro-benchmarks
+
+TODO
+
+### floating
+
+TODO
+
+### fpu-wrappers
+
+TODO
+
+### feishu-backup
+
+TODO
+
+### rocket-chip-vcu128
+
+TODO
+
+### dcst-facts
+
+TODO
+
+### zotero-dump-markdown
+
+TODO
+
+### gitlab-cloner
+
+TODO
+
+### jtag-remote-server
+
+TODO
+
+### video2srt
+
+TODO
+
+### rvv-kernels
+
+TODO
+
+### ifupdown-to-systemd-networkd
+
+TODO
+
+### kicad-symbol-gen
+
+TODO
+
+### china_bean_importers
+
+TODO
+
+### chisel-memory-lower
+
+TODO
+
+### kb
+
+TODO
+
+### PMOD-SPI-NOR-FLASH
+
+TODO
+
+### dntt
+
+TODO
+
+### markdown-to-zhihu-article
+
+TODO
+
+### la-inst
+
+TODO
+
+### fatbinary
+
+TODO
+
+### data-link-protocols
+
+TODO
+
+### unofficial-loongarch-intrinsics-guide
+
+TODO
+
+### loongarch-csr
+
+TODO
+
+### buildit
+
+TODO
+
+### la_ow_ptrace
+
+TODO
+
+### cold
+
+TODO
+
+### ps2
+
+TODO
+
+### apple-pmu
+
+TODO
+
+### cpu
+
+TODO
+
+### barcode
+
+TODO
+
+### NetworkToolsHarmony
+
+TODO
+
+### SPECCPU2017Harmony
+
+TODO
+
+### cbp-experiments
+
+TODO
+
+### Termony
+
+TODO
+
+### ohos-updatebin-unpacker
+
+TODO
+
+### simple-frame-rs
+
+TODO
+
+### devdocs-mcp-server
+
+TODO
+
+### waveform-mcp
+
+TODO
 
 ## 未完待续
