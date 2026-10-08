@@ -47,7 +47,7 @@ date: 1970-01-01
 | 时间    | 比赛         | 项目                                                                                                                                                                                                                                                                                                         |
 |---------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2018.09 | THUCTF2018   | [ctf-writeups](#ctf-writeups)                                                                                                                                                                                                                                                                                |
-| 2019.07 | 龙芯杯       | [GuGuMIPS](#gugumips)，[GuGuMIPSSoC](#gugumipssoc)，[linux-gugumips](#linux-gugumips)，[u-boot-gugumips](#u-boot-gugumips)，[ucore-gugumips](#ucore-gugumips)，[usbh](#usbh)，[nontrivial-mips](#nontrivial-mips)，[linux-nontrivial-mips](#linux-nontrivial-mips)，[u-boot-nontrivial-mips](#u-boot-nontrivialmips) |
+| 2019.07 | 龙芯杯       | [GuGuMIPS](#gugumips)，[GuGuMIPSSoC](#gugumipssoc)，[linux-gugumips](#linux-gugumips)，[u-boot-gugumips](#u-boot-gugumips)，[ucore-gugumips](#ucore-gugumips)，[usbh](#usbh)，[nontrivial-mips](#nontrivial-mips)，[linux-nontrivial-mips](#linux-nontrivial-mips)，[u-boot-nontrivial-mips](#u-boot-nontrivial-mips) |
 | 2020.08 | 华为杯       | [trivialcompiler](#trivialcompiler)                                                                                                                                                                                                                                                                          |
 | 2020.06 | ISC20 SCC    | [Elmerfem](#elmerfem)                                                                                                                                                                                                                                                                                        |
 | 2020.11 | SC20 VSCC    | [MemXCT](#memxct)，[miniVite](#minivite)                                                                                                                                                                                                                                                                      |
@@ -82,9 +82,9 @@ date: 1970-01-01
 | 2020.11 | machine-tester 集群机器测试工具                                           | [machine-tester](#machine-tester)                                               |
 | 2020.12 | HT42B534 USB to UART 开源 PCB 设计                                        | [HT42B534USB2UART](#ht42b534usb2uart)                                           |
 | 2020.12 | jieplag 代码查重软件                                                      | [jieplag](#jieplag)                                                             |
-| 2021.01 | EspinalLib 使用 SpinalHDL 实现的 HDL 模块                                 | [EspinalLib](#espinnallib)                                                      |
+| 2021.01 | EspinalLib 使用 SpinalHDL 实现的 HDL 模块                                 | [EspinalLib](#espinallib)                                                      |
 | 2021.02 | daccountd 分布式强一致 LDAP 服务器                                        | [daccountd](#daccountd)                                                         |
-| 2021.02 | minipxe 用于 PXE 的迷你 DHCP+TFTP 服务器                                  | [minipxe](#minpxe)                                                              |
+| 2021.02 | minipxe 用于 PXE 的迷你 DHCP+TFTP 服务器                                  | [minipxe](#minipxe)                                                              |
 | 2021.02 | wechat-dump 从 iOS 备份中导出微信聊天记录                                 | [wechat-dump](#wechat-dump)                                                     |
 | 2021.03 | WM8731PMOD 音频 PMOD 扩展板                                               | [WM8731PMOD](#wm8731pmod)                                                       |
 | 2021.03 | YXPortal 实验用户管理系统                                                 | [YXPortal](#yxportal)                                                           |
@@ -668,7 +668,7 @@ TODO
 
 TODO
 
-### u-boot-nontrivialmips
+### u-boot-nontrivial-mips
 
 TODO
 
@@ -892,11 +892,11 @@ TODO
 
 TODO
 
-### espinnallib
+### espinallib
 
 TODO
 
-### minpxe
+### minipxe
 
 TODO
 
